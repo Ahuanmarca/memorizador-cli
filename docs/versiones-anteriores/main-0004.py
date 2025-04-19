@@ -9,13 +9,7 @@ with open("temario-completo.json", encoding="utf-8") as f:
     preguntas = json.load(f)
 
 # Obtener libros únicos
-# libros_disponibles = sorted(set(p["libro"] for p in preguntas))
-libros_disponibles = []
-for p in preguntas:
-    libro = p["libro"]
-    if libro not in libros_disponibles:
-        libros_disponibles.append(libro)
-
+libros_disponibles = sorted(set(p["libro"] for p in preguntas))
 
 # Menú inicial con readchar
 print("\n--- Selecciona un modo de entrenamiento ---")
@@ -37,16 +31,14 @@ elif modo == "2":
     print("\nPresiona una tecla correspondiente al libro (1-9) o 'x' para salir")
     while True:
         key = readchar.readkey()
-        if key.lower() == "x":
+        if key.lower() == 'x':
             print("\nSesión cancelada.")
             exit()
         if key.isdigit():
             indice = int(key) - 1
             if 0 <= indice < len(libros_disponibles):
                 libro_elegido = libros_disponibles[indice]
-                preguntas_seleccionadas = [
-                    p for p in preguntas if p["libro"] == libro_elegido
-                ]
+                preguntas_seleccionadas = [p for p in preguntas if p["libro"] == libro_elegido]
                 random.shuffle(preguntas_seleccionadas)
                 break
             else:
@@ -68,9 +60,7 @@ else:
 
 resumen_errores = []
 
-print(
-    "\n--- Entrenamiento iniciado. Presiona 1-4 para responder, 'x' para salir. ---\n"
-)
+print("\n--- Entrenamiento iniciado. Presiona 1-4 para responder, 'x' para salir. ---\n")
 
 for item in preguntas_seleccionadas:
     formulacion = random.choice(item["formulaciones"])
@@ -107,28 +97,26 @@ for item in preguntas_seleccionadas:
     print("\nSelecciona una opción (1-4) o 'x' para salir:")
     while True:
         key = readchar.readkey()
-        if key in ["1", "2", "3", "4"]:
+        if key in ['1', '2', '3', '4']:
             indice_usuario = int(key) - 1
             if opciones[indice_usuario] == respuesta_correcta:
                 print("✅ ¡Correcto!\n")
             else:
                 print("❌ Incorrecto.\n")
-                resumen_errores.append(
-                    {
-                        "pregunta": pregunta,
-                        "respuesta_usuario": opciones[indice_usuario],
-                        "respuesta_correcta": respuesta_correcta,
-                        "fragmento": item["fragmento_original"],
-                    }
-                )
+                resumen_errores.append({
+                    "pregunta": pregunta,
+                    "respuesta_usuario": opciones[indice_usuario],
+                    "respuesta_correcta": respuesta_correcta,
+                    "fragmento": item["fragmento_original"]
+                })
             break
-        elif key.lower() == "x":
+        elif key.lower() == 'x':
             print("\nSesión interrumpida por el usuario.")
             break
         else:
             print("Entrada inválida. Presiona 1-4 o 'x'.")
 
-    if key.lower() == "x":
+    if key.lower() == 'x':
         break
 
 # Guardar resumen

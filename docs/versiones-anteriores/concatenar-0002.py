@@ -41,14 +41,11 @@ def agregar_campos_estudio(item):
             item[k] = v
     return item
 
-# Leer y ordenar archivos alfabéticamente
-archivos_json = sorted([
-    nombre for nombre in os.listdir(directorio_temario)
-    if nombre.endswith(".json")
-])
+# Leer archivos del directorio temario
+for nombre_archivo in os.listdir(directorio_temario):
+    if not nombre_archivo.endswith(".json"):
+        continue
 
-# Procesar cada archivo en orden
-for nombre_archivo in archivos_json:
     ruta = os.path.join(directorio_temario, nombre_archivo)
 
     try:
