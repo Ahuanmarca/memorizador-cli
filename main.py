@@ -7,7 +7,7 @@ import readchar
 # Colores ANSI para CLI (modo oscuro)
 RESET = "\033[0m"
 GREEN = "\033[92m"  # Verde brillante
-RED = "\033[91m"    # Rojo brillante
+RED = "\033[91m"  # Rojo brillante
 
 # Cargar preguntas
 with open("temario-completo.json", encoding="utf-8") as f:
@@ -114,22 +114,42 @@ for item in preguntas_seleccionadas:
     opciones = []
     respuesta_correcta = ""
 
+    todas_texto = "Todas las anteriores son correctas."
+
     if modo == "una_correcta" and tipo == "positiva":
         respuesta_correcta = random.choice(correctas)
         opciones = [respuesta_correcta] + random.sample(incorrectas, 3)
+
+        # Posibilidad de incluir "Todas las anteriores son correctas" como distractor
+        if random.random() < 0.25 and todas_texto not in opciones:
+            # Reemplazar una incorrecta por el distractor, que irá como última opción
+            opciones = opciones[:3] + [todas_texto]
+
+        else:
+            opciones = random.sample(opciones, 4)  # Asegurar mezcla
+
     elif modo == "una_correcta" and tipo == "negativa":
         respuesta_correcta = random.choice(incorrectas)
         opciones = [respuesta_correcta] + random.sample(correctas, 3)
+
     elif modo == "todas_correctas" and tipo == "positiva":
         seleccionadas = random.sample(correctas, 3)
         respuesta_correcta = "Todas las anteriores son correctas."
         opciones = seleccionadas + [respuesta_correcta]
+
     elif modo == "todas_correctas" and tipo == "negativa":
         seleccionadas = random.sample(incorrectas, 3)
         respuesta_correcta = "Todas las anteriores."
         opciones = seleccionadas + [respuesta_correcta]
 
-    random.shuffle(opciones)
+    # Reordenar opciones dejando "Todas las anteriores son correctas." en posición 4 si existe
+    if todas_texto in opciones:
+        opciones = [opt for opt in opciones if opt != todas_texto]
+        opciones = random.sample(opciones, 3) + [todas_texto]
+    else:
+        random.shuffle(opciones)
+
+    # random.shuffle(opciones)
 
     print(f"\n{pregunta}\n")
     for i, opcion in enumerate(opciones):
