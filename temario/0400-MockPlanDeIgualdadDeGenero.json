@@ -1,0 +1,2162 @@
+[
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 1?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 1-1",
+      "respuesta correcta 1-2",
+      "respuesta correcta 1-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 1-1",
+      "respuesta incorrecta 1-2",
+      "respuesta incorrecta 1-3",
+      "respuesta incorrecta 1-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 1.",
+    "etiquetas": [
+      "mock",
+      "pregunta_1"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 2?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 2-1",
+      "respuesta correcta 2-2",
+      "respuesta correcta 2-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 2-1",
+      "respuesta incorrecta 2-2",
+      "respuesta incorrecta 2-3",
+      "respuesta incorrecta 2-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 2.",
+    "etiquetas": [
+      "mock",
+      "pregunta_2"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 3?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 3-1",
+      "respuesta correcta 3-2",
+      "respuesta correcta 3-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 3-1",
+      "respuesta incorrecta 3-2",
+      "respuesta incorrecta 3-3",
+      "respuesta incorrecta 3-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 3.",
+    "etiquetas": [
+      "mock",
+      "pregunta_3"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 4?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 4-1",
+      "respuesta correcta 4-2",
+      "respuesta correcta 4-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 4-1",
+      "respuesta incorrecta 4-2",
+      "respuesta incorrecta 4-3",
+      "respuesta incorrecta 4-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 4.",
+    "etiquetas": [
+      "mock",
+      "pregunta_4"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 5?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 5-1",
+      "respuesta correcta 5-2",
+      "respuesta correcta 5-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 5-1",
+      "respuesta incorrecta 5-2",
+      "respuesta incorrecta 5-3",
+      "respuesta incorrecta 5-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 5.",
+    "etiquetas": [
+      "mock",
+      "pregunta_5"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 6?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 6-1",
+      "respuesta correcta 6-2",
+      "respuesta correcta 6-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 6-1",
+      "respuesta incorrecta 6-2",
+      "respuesta incorrecta 6-3",
+      "respuesta incorrecta 6-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 6.",
+    "etiquetas": [
+      "mock",
+      "pregunta_6"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 7?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 7-1",
+      "respuesta correcta 7-2",
+      "respuesta correcta 7-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 7-1",
+      "respuesta incorrecta 7-2",
+      "respuesta incorrecta 7-3",
+      "respuesta incorrecta 7-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 7.",
+    "etiquetas": [
+      "mock",
+      "pregunta_7"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 8?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 8-1",
+      "respuesta correcta 8-2",
+      "respuesta correcta 8-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 8-1",
+      "respuesta incorrecta 8-2",
+      "respuesta incorrecta 8-3",
+      "respuesta incorrecta 8-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 8.",
+    "etiquetas": [
+      "mock",
+      "pregunta_8"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 9?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 9-1",
+      "respuesta correcta 9-2",
+      "respuesta correcta 9-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 9-1",
+      "respuesta incorrecta 9-2",
+      "respuesta incorrecta 9-3",
+      "respuesta incorrecta 9-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 9.",
+    "etiquetas": [
+      "mock",
+      "pregunta_9"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 1",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 10?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 10-1",
+      "respuesta correcta 10-2",
+      "respuesta correcta 10-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 10-1",
+      "respuesta incorrecta 10-2",
+      "respuesta incorrecta 10-3",
+      "respuesta incorrecta 10-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 10.",
+    "etiquetas": [
+      "mock",
+      "pregunta_10"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 11?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 11-1",
+      "respuesta correcta 11-2",
+      "respuesta correcta 11-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 11-1",
+      "respuesta incorrecta 11-2",
+      "respuesta incorrecta 11-3",
+      "respuesta incorrecta 11-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 11.",
+    "etiquetas": [
+      "mock",
+      "pregunta_11"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 12?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 12-1",
+      "respuesta correcta 12-2",
+      "respuesta correcta 12-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 12-1",
+      "respuesta incorrecta 12-2",
+      "respuesta incorrecta 12-3",
+      "respuesta incorrecta 12-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 12.",
+    "etiquetas": [
+      "mock",
+      "pregunta_12"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 13?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 13-1",
+      "respuesta correcta 13-2",
+      "respuesta correcta 13-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 13-1",
+      "respuesta incorrecta 13-2",
+      "respuesta incorrecta 13-3",
+      "respuesta incorrecta 13-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 13.",
+    "etiquetas": [
+      "mock",
+      "pregunta_13"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 14?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 14-1",
+      "respuesta correcta 14-2",
+      "respuesta correcta 14-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 14-1",
+      "respuesta incorrecta 14-2",
+      "respuesta incorrecta 14-3",
+      "respuesta incorrecta 14-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 14.",
+    "etiquetas": [
+      "mock",
+      "pregunta_14"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 15?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 15-1",
+      "respuesta correcta 15-2",
+      "respuesta correcta 15-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 15-1",
+      "respuesta incorrecta 15-2",
+      "respuesta incorrecta 15-3",
+      "respuesta incorrecta 15-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 15.",
+    "etiquetas": [
+      "mock",
+      "pregunta_15"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 16?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 16-1",
+      "respuesta correcta 16-2",
+      "respuesta correcta 16-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 16-1",
+      "respuesta incorrecta 16-2",
+      "respuesta incorrecta 16-3",
+      "respuesta incorrecta 16-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 16.",
+    "etiquetas": [
+      "mock",
+      "pregunta_16"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 17?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 17-1",
+      "respuesta correcta 17-2",
+      "respuesta correcta 17-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 17-1",
+      "respuesta incorrecta 17-2",
+      "respuesta incorrecta 17-3",
+      "respuesta incorrecta 17-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 17.",
+    "etiquetas": [
+      "mock",
+      "pregunta_17"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 18?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 18-1",
+      "respuesta correcta 18-2",
+      "respuesta correcta 18-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 18-1",
+      "respuesta incorrecta 18-2",
+      "respuesta incorrecta 18-3",
+      "respuesta incorrecta 18-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 18.",
+    "etiquetas": [
+      "mock",
+      "pregunta_18"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 19?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 19-1",
+      "respuesta correcta 19-2",
+      "respuesta correcta 19-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 19-1",
+      "respuesta incorrecta 19-2",
+      "respuesta incorrecta 19-3",
+      "respuesta incorrecta 19-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 19.",
+    "etiquetas": [
+      "mock",
+      "pregunta_19"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 2",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 20?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 20-1",
+      "respuesta correcta 20-2",
+      "respuesta correcta 20-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 20-1",
+      "respuesta incorrecta 20-2",
+      "respuesta incorrecta 20-3",
+      "respuesta incorrecta 20-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 20.",
+    "etiquetas": [
+      "mock",
+      "pregunta_20"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 21?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 21-1",
+      "respuesta correcta 21-2",
+      "respuesta correcta 21-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 21-1",
+      "respuesta incorrecta 21-2",
+      "respuesta incorrecta 21-3",
+      "respuesta incorrecta 21-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 21.",
+    "etiquetas": [
+      "mock",
+      "pregunta_21"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 22?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 22-1",
+      "respuesta correcta 22-2",
+      "respuesta correcta 22-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 22-1",
+      "respuesta incorrecta 22-2",
+      "respuesta incorrecta 22-3",
+      "respuesta incorrecta 22-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 22.",
+    "etiquetas": [
+      "mock",
+      "pregunta_22"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 23?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 23-1",
+      "respuesta correcta 23-2",
+      "respuesta correcta 23-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 23-1",
+      "respuesta incorrecta 23-2",
+      "respuesta incorrecta 23-3",
+      "respuesta incorrecta 23-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 23.",
+    "etiquetas": [
+      "mock",
+      "pregunta_23"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 24?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 24-1",
+      "respuesta correcta 24-2",
+      "respuesta correcta 24-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 24-1",
+      "respuesta incorrecta 24-2",
+      "respuesta incorrecta 24-3",
+      "respuesta incorrecta 24-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 24.",
+    "etiquetas": [
+      "mock",
+      "pregunta_24"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 25?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 25-1",
+      "respuesta correcta 25-2",
+      "respuesta correcta 25-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 25-1",
+      "respuesta incorrecta 25-2",
+      "respuesta incorrecta 25-3",
+      "respuesta incorrecta 25-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 25.",
+    "etiquetas": [
+      "mock",
+      "pregunta_25"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 26?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 26-1",
+      "respuesta correcta 26-2",
+      "respuesta correcta 26-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 26-1",
+      "respuesta incorrecta 26-2",
+      "respuesta incorrecta 26-3",
+      "respuesta incorrecta 26-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 26.",
+    "etiquetas": [
+      "mock",
+      "pregunta_26"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 27?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 27-1",
+      "respuesta correcta 27-2",
+      "respuesta correcta 27-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 27-1",
+      "respuesta incorrecta 27-2",
+      "respuesta incorrecta 27-3",
+      "respuesta incorrecta 27-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 27.",
+    "etiquetas": [
+      "mock",
+      "pregunta_27"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 28?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 28-1",
+      "respuesta correcta 28-2",
+      "respuesta correcta 28-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 28-1",
+      "respuesta incorrecta 28-2",
+      "respuesta incorrecta 28-3",
+      "respuesta incorrecta 28-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 28.",
+    "etiquetas": [
+      "mock",
+      "pregunta_28"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 29?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 29-1",
+      "respuesta correcta 29-2",
+      "respuesta correcta 29-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 29-1",
+      "respuesta incorrecta 29-2",
+      "respuesta incorrecta 29-3",
+      "respuesta incorrecta 29-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 29.",
+    "etiquetas": [
+      "mock",
+      "pregunta_29"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 3",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 30?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 30-1",
+      "respuesta correcta 30-2",
+      "respuesta correcta 30-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 30-1",
+      "respuesta incorrecta 30-2",
+      "respuesta incorrecta 30-3",
+      "respuesta incorrecta 30-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 30.",
+    "etiquetas": [
+      "mock",
+      "pregunta_30"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 31?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 31-1",
+      "respuesta correcta 31-2",
+      "respuesta correcta 31-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 31-1",
+      "respuesta incorrecta 31-2",
+      "respuesta incorrecta 31-3",
+      "respuesta incorrecta 31-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 31.",
+    "etiquetas": [
+      "mock",
+      "pregunta_31"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 32?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 32-1",
+      "respuesta correcta 32-2",
+      "respuesta correcta 32-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 32-1",
+      "respuesta incorrecta 32-2",
+      "respuesta incorrecta 32-3",
+      "respuesta incorrecta 32-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 32.",
+    "etiquetas": [
+      "mock",
+      "pregunta_32"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 33?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 33-1",
+      "respuesta correcta 33-2",
+      "respuesta correcta 33-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 33-1",
+      "respuesta incorrecta 33-2",
+      "respuesta incorrecta 33-3",
+      "respuesta incorrecta 33-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 33.",
+    "etiquetas": [
+      "mock",
+      "pregunta_33"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 34?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 34-1",
+      "respuesta correcta 34-2",
+      "respuesta correcta 34-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 34-1",
+      "respuesta incorrecta 34-2",
+      "respuesta incorrecta 34-3",
+      "respuesta incorrecta 34-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 34.",
+    "etiquetas": [
+      "mock",
+      "pregunta_34"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 35?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 35-1",
+      "respuesta correcta 35-2",
+      "respuesta correcta 35-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 35-1",
+      "respuesta incorrecta 35-2",
+      "respuesta incorrecta 35-3",
+      "respuesta incorrecta 35-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 35.",
+    "etiquetas": [
+      "mock",
+      "pregunta_35"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 36?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 36-1",
+      "respuesta correcta 36-2",
+      "respuesta correcta 36-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 36-1",
+      "respuesta incorrecta 36-2",
+      "respuesta incorrecta 36-3",
+      "respuesta incorrecta 36-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 36.",
+    "etiquetas": [
+      "mock",
+      "pregunta_36"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 37?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 37-1",
+      "respuesta correcta 37-2",
+      "respuesta correcta 37-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 37-1",
+      "respuesta incorrecta 37-2",
+      "respuesta incorrecta 37-3",
+      "respuesta incorrecta 37-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 37.",
+    "etiquetas": [
+      "mock",
+      "pregunta_37"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 38?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 38-1",
+      "respuesta correcta 38-2",
+      "respuesta correcta 38-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 38-1",
+      "respuesta incorrecta 38-2",
+      "respuesta incorrecta 38-3",
+      "respuesta incorrecta 38-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 38.",
+    "etiquetas": [
+      "mock",
+      "pregunta_38"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 39?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 39-1",
+      "respuesta correcta 39-2",
+      "respuesta correcta 39-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 39-1",
+      "respuesta incorrecta 39-2",
+      "respuesta incorrecta 39-3",
+      "respuesta incorrecta 39-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 39.",
+    "etiquetas": [
+      "mock",
+      "pregunta_39"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 40?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 40-1",
+      "respuesta correcta 40-2",
+      "respuesta correcta 40-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 40-1",
+      "respuesta incorrecta 40-2",
+      "respuesta incorrecta 40-3",
+      "respuesta incorrecta 40-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 40.",
+    "etiquetas": [
+      "mock",
+      "pregunta_40"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 41?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 41-1",
+      "respuesta correcta 41-2",
+      "respuesta correcta 41-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 41-1",
+      "respuesta incorrecta 41-2",
+      "respuesta incorrecta 41-3",
+      "respuesta incorrecta 41-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 41.",
+    "etiquetas": [
+      "mock",
+      "pregunta_41"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 42?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 42-1",
+      "respuesta correcta 42-2",
+      "respuesta correcta 42-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 42-1",
+      "respuesta incorrecta 42-2",
+      "respuesta incorrecta 42-3",
+      "respuesta incorrecta 42-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 42.",
+    "etiquetas": [
+      "mock",
+      "pregunta_42"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 43?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 43-1",
+      "respuesta correcta 43-2",
+      "respuesta correcta 43-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 43-1",
+      "respuesta incorrecta 43-2",
+      "respuesta incorrecta 43-3",
+      "respuesta incorrecta 43-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 43.",
+    "etiquetas": [
+      "mock",
+      "pregunta_43"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 44?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 44-1",
+      "respuesta correcta 44-2",
+      "respuesta correcta 44-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 44-1",
+      "respuesta incorrecta 44-2",
+      "respuesta incorrecta 44-3",
+      "respuesta incorrecta 44-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 44.",
+    "etiquetas": [
+      "mock",
+      "pregunta_44"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 45?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 45-1",
+      "respuesta correcta 45-2",
+      "respuesta correcta 45-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 45-1",
+      "respuesta incorrecta 45-2",
+      "respuesta incorrecta 45-3",
+      "respuesta incorrecta 45-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 45.",
+    "etiquetas": [
+      "mock",
+      "pregunta_45"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 46?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 46-1",
+      "respuesta correcta 46-2",
+      "respuesta correcta 46-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 46-1",
+      "respuesta incorrecta 46-2",
+      "respuesta incorrecta 46-3",
+      "respuesta incorrecta 46-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 46.",
+    "etiquetas": [
+      "mock",
+      "pregunta_46"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 47?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 47-1",
+      "respuesta correcta 47-2",
+      "respuesta correcta 47-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 47-1",
+      "respuesta incorrecta 47-2",
+      "respuesta incorrecta 47-3",
+      "respuesta incorrecta 47-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 47.",
+    "etiquetas": [
+      "mock",
+      "pregunta_47"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 48?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 48-1",
+      "respuesta correcta 48-2",
+      "respuesta correcta 48-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 48-1",
+      "respuesta incorrecta 48-2",
+      "respuesta incorrecta 48-3",
+      "respuesta incorrecta 48-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 48.",
+    "etiquetas": [
+      "mock",
+      "pregunta_48"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 49?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 49-1",
+      "respuesta correcta 49-2",
+      "respuesta correcta 49-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 49-1",
+      "respuesta incorrecta 49-2",
+      "respuesta incorrecta 49-3",
+      "respuesta incorrecta 49-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 49.",
+    "etiquetas": [
+      "mock",
+      "pregunta_49"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 5",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 50?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 50-1",
+      "respuesta correcta 50-2",
+      "respuesta correcta 50-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 50-1",
+      "respuesta incorrecta 50-2",
+      "respuesta incorrecta 50-3",
+      "respuesta incorrecta 50-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 50.",
+    "etiquetas": [
+      "mock",
+      "pregunta_50"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 51?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 51-1",
+      "respuesta correcta 51-2",
+      "respuesta correcta 51-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 51-1",
+      "respuesta incorrecta 51-2",
+      "respuesta incorrecta 51-3",
+      "respuesta incorrecta 51-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 51.",
+    "etiquetas": [
+      "mock",
+      "pregunta_51"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 52?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 52-1",
+      "respuesta correcta 52-2",
+      "respuesta correcta 52-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 52-1",
+      "respuesta incorrecta 52-2",
+      "respuesta incorrecta 52-3",
+      "respuesta incorrecta 52-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 52.",
+    "etiquetas": [
+      "mock",
+      "pregunta_52"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 53?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 53-1",
+      "respuesta correcta 53-2",
+      "respuesta correcta 53-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 53-1",
+      "respuesta incorrecta 53-2",
+      "respuesta incorrecta 53-3",
+      "respuesta incorrecta 53-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 53.",
+    "etiquetas": [
+      "mock",
+      "pregunta_53"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 54?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 54-1",
+      "respuesta correcta 54-2",
+      "respuesta correcta 54-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 54-1",
+      "respuesta incorrecta 54-2",
+      "respuesta incorrecta 54-3",
+      "respuesta incorrecta 54-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 54.",
+    "etiquetas": [
+      "mock",
+      "pregunta_54"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 55?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 55-1",
+      "respuesta correcta 55-2",
+      "respuesta correcta 55-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 55-1",
+      "respuesta incorrecta 55-2",
+      "respuesta incorrecta 55-3",
+      "respuesta incorrecta 55-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 55.",
+    "etiquetas": [
+      "mock",
+      "pregunta_55"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 56?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 56-1",
+      "respuesta correcta 56-2",
+      "respuesta correcta 56-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 56-1",
+      "respuesta incorrecta 56-2",
+      "respuesta incorrecta 56-3",
+      "respuesta incorrecta 56-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 56.",
+    "etiquetas": [
+      "mock",
+      "pregunta_56"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 57?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 57-1",
+      "respuesta correcta 57-2",
+      "respuesta correcta 57-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 57-1",
+      "respuesta incorrecta 57-2",
+      "respuesta incorrecta 57-3",
+      "respuesta incorrecta 57-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 57.",
+    "etiquetas": [
+      "mock",
+      "pregunta_57"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 58?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 58-1",
+      "respuesta correcta 58-2",
+      "respuesta correcta 58-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 58-1",
+      "respuesta incorrecta 58-2",
+      "respuesta incorrecta 58-3",
+      "respuesta incorrecta 58-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 58.",
+    "etiquetas": [
+      "mock",
+      "pregunta_58"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 59?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 59-1",
+      "respuesta correcta 59-2",
+      "respuesta correcta 59-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 59-1",
+      "respuesta incorrecta 59-2",
+      "respuesta incorrecta 59-3",
+      "respuesta incorrecta 59-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 59.",
+    "etiquetas": [
+      "mock",
+      "pregunta_59"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 6",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 60?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 60-1",
+      "respuesta correcta 60-2",
+      "respuesta correcta 60-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 60-1",
+      "respuesta incorrecta 60-2",
+      "respuesta incorrecta 60-3",
+      "respuesta incorrecta 60-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 60.",
+    "etiquetas": [
+      "mock",
+      "pregunta_60"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 61?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 61-1",
+      "respuesta correcta 61-2",
+      "respuesta correcta 61-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 61-1",
+      "respuesta incorrecta 61-2",
+      "respuesta incorrecta 61-3",
+      "respuesta incorrecta 61-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 61.",
+    "etiquetas": [
+      "mock",
+      "pregunta_61"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 62?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 62-1",
+      "respuesta correcta 62-2",
+      "respuesta correcta 62-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 62-1",
+      "respuesta incorrecta 62-2",
+      "respuesta incorrecta 62-3",
+      "respuesta incorrecta 62-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 62.",
+    "etiquetas": [
+      "mock",
+      "pregunta_62"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 63?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 63-1",
+      "respuesta correcta 63-2",
+      "respuesta correcta 63-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 63-1",
+      "respuesta incorrecta 63-2",
+      "respuesta incorrecta 63-3",
+      "respuesta incorrecta 63-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 63.",
+    "etiquetas": [
+      "mock",
+      "pregunta_63"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 64?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 64-1",
+      "respuesta correcta 64-2",
+      "respuesta correcta 64-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 64-1",
+      "respuesta incorrecta 64-2",
+      "respuesta incorrecta 64-3",
+      "respuesta incorrecta 64-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 64.",
+    "etiquetas": [
+      "mock",
+      "pregunta_64"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 65?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 65-1",
+      "respuesta correcta 65-2",
+      "respuesta correcta 65-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 65-1",
+      "respuesta incorrecta 65-2",
+      "respuesta incorrecta 65-3",
+      "respuesta incorrecta 65-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 65.",
+    "etiquetas": [
+      "mock",
+      "pregunta_65"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 66?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 66-1",
+      "respuesta correcta 66-2",
+      "respuesta correcta 66-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 66-1",
+      "respuesta incorrecta 66-2",
+      "respuesta incorrecta 66-3",
+      "respuesta incorrecta 66-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 66.",
+    "etiquetas": [
+      "mock",
+      "pregunta_66"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 67?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 67-1",
+      "respuesta correcta 67-2",
+      "respuesta correcta 67-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 67-1",
+      "respuesta incorrecta 67-2",
+      "respuesta incorrecta 67-3",
+      "respuesta incorrecta 67-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 67.",
+    "etiquetas": [
+      "mock",
+      "pregunta_67"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 68?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 68-1",
+      "respuesta correcta 68-2",
+      "respuesta correcta 68-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 68-1",
+      "respuesta incorrecta 68-2",
+      "respuesta incorrecta 68-3",
+      "respuesta incorrecta 68-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 68.",
+    "etiquetas": [
+      "mock",
+      "pregunta_68"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 69?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 69-1",
+      "respuesta correcta 69-2",
+      "respuesta correcta 69-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 69-1",
+      "respuesta incorrecta 69-2",
+      "respuesta incorrecta 69-3",
+      "respuesta incorrecta 69-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 69.",
+    "etiquetas": [
+      "mock",
+      "pregunta_69"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 7",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 70?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 70-1",
+      "respuesta correcta 70-2",
+      "respuesta correcta 70-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 70-1",
+      "respuesta incorrecta 70-2",
+      "respuesta incorrecta 70-3",
+      "respuesta incorrecta 70-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 70.",
+    "etiquetas": [
+      "mock",
+      "pregunta_70"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 71?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 71-1",
+      "respuesta correcta 71-2",
+      "respuesta correcta 71-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 71-1",
+      "respuesta incorrecta 71-2",
+      "respuesta incorrecta 71-3",
+      "respuesta incorrecta 71-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 71.",
+    "etiquetas": [
+      "mock",
+      "pregunta_71"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 72?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 72-1",
+      "respuesta correcta 72-2",
+      "respuesta correcta 72-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 72-1",
+      "respuesta incorrecta 72-2",
+      "respuesta incorrecta 72-3",
+      "respuesta incorrecta 72-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 72.",
+    "etiquetas": [
+      "mock",
+      "pregunta_72"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 73?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 73-1",
+      "respuesta correcta 73-2",
+      "respuesta correcta 73-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 73-1",
+      "respuesta incorrecta 73-2",
+      "respuesta incorrecta 73-3",
+      "respuesta incorrecta 73-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 73.",
+    "etiquetas": [
+      "mock",
+      "pregunta_73"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 74?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 74-1",
+      "respuesta correcta 74-2",
+      "respuesta correcta 74-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 74-1",
+      "respuesta incorrecta 74-2",
+      "respuesta incorrecta 74-3",
+      "respuesta incorrecta 74-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 74.",
+    "etiquetas": [
+      "mock",
+      "pregunta_74"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 75?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 75-1",
+      "respuesta correcta 75-2",
+      "respuesta correcta 75-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 75-1",
+      "respuesta incorrecta 75-2",
+      "respuesta incorrecta 75-3",
+      "respuesta incorrecta 75-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 75.",
+    "etiquetas": [
+      "mock",
+      "pregunta_75"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 76?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 76-1",
+      "respuesta correcta 76-2",
+      "respuesta correcta 76-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 76-1",
+      "respuesta incorrecta 76-2",
+      "respuesta incorrecta 76-3",
+      "respuesta incorrecta 76-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 76.",
+    "etiquetas": [
+      "mock",
+      "pregunta_76"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 77?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 77-1",
+      "respuesta correcta 77-2",
+      "respuesta correcta 77-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 77-1",
+      "respuesta incorrecta 77-2",
+      "respuesta incorrecta 77-3",
+      "respuesta incorrecta 77-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 77.",
+    "etiquetas": [
+      "mock",
+      "pregunta_77"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 78?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 78-1",
+      "respuesta correcta 78-2",
+      "respuesta correcta 78-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 78-1",
+      "respuesta incorrecta 78-2",
+      "respuesta incorrecta 78-3",
+      "respuesta incorrecta 78-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 78.",
+    "etiquetas": [
+      "mock",
+      "pregunta_78"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 79?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 79-1",
+      "respuesta correcta 79-2",
+      "respuesta correcta 79-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 79-1",
+      "respuesta incorrecta 79-2",
+      "respuesta incorrecta 79-3",
+      "respuesta incorrecta 79-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 79.",
+    "etiquetas": [
+      "mock",
+      "pregunta_79"
+    ]
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 8",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 80?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 80-1",
+      "respuesta correcta 80-2",
+      "respuesta correcta 80-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 80-1",
+      "respuesta incorrecta 80-2",
+      "respuesta incorrecta 80-3",
+      "respuesta incorrecta 80-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 80.",
+    "etiquetas": [
+      "mock",
+      "pregunta_80"
+    ]
+  }
+]

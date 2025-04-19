@@ -1,0 +1,1 @@
+No he guardado un buen historial de todos los prompts.

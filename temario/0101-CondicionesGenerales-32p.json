@@ -555,11 +555,6 @@
         "texto": "¿Cuáles son las categorías de títulos de transporte disponibles según las Condiciones Generales de Renfe?",
         "modo": "una_correcta",
         "tipo": "positiva"
-      },
-      {
-        "texto": "¿Qué conjunto NO corresponde a una clasificación real de títulos de transporte ofrecidos por Renfe Viajeros?",
-        "modo": "una_correcta",
-        "tipo": "negativa"
       }
     ],
     "respuestas_correctas": ["SENCILLO, COLECTIVO, COMBINADO, MULTIVIAJE"],
@@ -2736,11 +2731,6 @@
         "texto": "¿Qué afirmación sobre la interrupción del viaje es verdadera?",
         "modo": "una_correcta",
         "tipo": "positiva"
-      },
-      {
-        "texto": "¿Qué afirmación sobre la interrupción del viaje es incorrecta?",
-        "modo": "una_correcta",
-        "tipo": "negativa"
       }
     ],
     "respuestas_correctas": [

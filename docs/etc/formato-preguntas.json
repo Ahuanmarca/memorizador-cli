@@ -1,0 +1,1460 @@
+[
+  {
+    "id": 12,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título Preliminar",
+    "tema": "Objeto social de Renfe Viajeros",
+    "pagina": 8,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de las siguientes actividades forma parte del objeto social de Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué actividad NO forma parte del objeto social de Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        },
+        {
+          "texto": "Indica cuál de estas funciones está comprendida en el objeto social de Renfe Viajeros.",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de las siguientes afirmaciones es verdadera respecto al objeto social de Renfe Viajeros?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 2,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "La prestación de servicios de transporte de viajeros por ferrocarril nacional e internacional",
+        "La mediación en la prestación de servicios turísticos",
+        "La organización y comercialización de productos turísticos o viajes combinados",
+        "La prestación de servicios o actividades complementarias vinculadas al transporte ferroviario"
+      ],
+      "respuestas_incorrectas": [
+        "La gestión directa de hoteles en destinos turísticos",
+        "El control aduanero en estaciones internacionales",
+        "La certificación técnica de infraestructuras ferroviarias",
+        "La regulación del tráfico aéreo en coordinación con AENA",
+        "La formación de pilotos de aviación comercial"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "RENFE VIAJEROS SOCIEDAD MERCANTIL ESTATAL, S.A. (en adelante Renfe Viajeros) tiene por objeto social la prestación de servicios de transporte de viajeros por ferrocarril, tanto nacional como internacional, la mediación en la prestación de cualesquiera servicios turísticos, organización, oferta y/o comercialización de viajes combinados o productos turísticos, así como la prestación de otros servicios o actividades complementarias o vinculadas al transporte ferroviario.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "objeto social",
+      "Renfe",
+      "enumeración",
+      "ferrocarril",
+      "turismo"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 13,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título Preliminar",
+    "tema": "Principios y objetivos estratégicos de Renfe Viajeros",
+    "pagina": 8,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de los siguientes principios orienta la actividad de Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué objetivo estratégico está presente en la actividad de Renfe Viajeros según sus principios de actuación?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de estas afirmaciones NO se menciona como principio o meta en el desarrollo de la actividad de Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        },
+        {
+          "texto": "Señala cuál de estas ideas forma parte de los criterios o principios por los que se rige Renfe Viajeros.",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuáles de los siguientes principios u objetivos están presentes en la actividad de Renfe Viajeros?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Seguridad",
+        "Orientación al cliente",
+        "Calidad",
+        "Eficiencia",
+        "Rentabilidad",
+        "Innovación",
+        "Incremento de la cuota de mercado del ferrocarril",
+        "Compromiso con la sociedad",
+        "Desarrollo de sus empleados"
+      ],
+      "respuestas_incorrectas": [
+        "Universalización del acceso digital al ferrocarril",
+        "Reducción de la inversión pública en infraestructuras",
+        "Privatización progresiva de los servicios ferroviarios",
+        "Descentralización de la gestión empresarial",
+        "Expansión internacional mediante licitaciones de carga"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Renfe Viajeros presta el servicio de transporte de viajeros por ferrocarril, bajo el principio de seguridad, desarrollando su actividad con una clara orientación al cliente, con criterios de calidad, eficiencia, rentabilidad e innovación, persiguiendo el incremento de la cuota de mercado del ferrocarril, sobre la base del compromiso con la sociedad y el desarrollo de sus empleados.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "principios",
+      "estrategia",
+      "Renfe",
+      "clientes",
+      "mercado",
+      "empleados"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 14,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Seguridad ferroviaria y habilitaciones del personal",
+    "pagina": 10,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de las siguientes afirmaciones describe correctamente las medidas de seguridad implementadas por Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué opción refleja con mayor precisión el enfoque de Renfe Viajeros respecto a la seguridad ferroviaria?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Renfe Viajeros dispone de certificaciones, un sistema de gestión de seguridad y personal habilitado para funciones relacionadas con la circulación",
+        "Cuenta con un certificado de seguridad, un plan de asistencia en caso de accidente y personal con habilitación para funciones críticas"
+      ],
+      "respuestas_incorrectas": [
+        "La seguridad ferroviaria está delegada en los fabricantes de los trenes",
+        "Renfe Viajeros solo requiere un plan de emergencia como medida de seguridad",
+        "El personal no necesita habilitaciones específicas si ya tiene experiencia previa",
+        "Los certificados de seguridad solo son exigibles en trayectos internacionales",
+        "El sistema de gestión de seguridad es opcional según el tipo de tren operado"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Para la seguridad de sus clientes, todos los vehículos disponen de las certificaciones y homologaciones requeridas. Renfe Viajeros dispone de un certificado de seguridad como empresa ferroviaria y de un sistema de gestión de la seguridad en la circulación, así como de un plan de asistencia en caso de accidente ferroviario. El personal de Renfe Viajeros con funciones relacionadas con la seguridad en la circulación está en posesión de las habilitaciones correspondientes para desarrollar sus funciones.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": ["seguridad", "certificados", "habilitaciones", "accidentes"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 15,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Servicios Comerciales y su naturaleza",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de los siguientes servicios forma parte de los considerados Servicios Comerciales por Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de los siguientes servicios NO está incluido entre los considerados Servicios Comerciales de Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        },
+        {
+          "texto": "¿Qué tipo de servicios se prestan bajo régimen de libre competencia y pluralidad de oferta según Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuáles de los siguientes servicios son considerados comerciales por Renfe?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Alta Velocidad-Larga Distancia",
+        "Larga Distancia",
+        "Trenes Turísticos"
+      ],
+      "respuestas_incorrectas": [
+        "Servicios de Cercanías",
+        "Servicios de Media Distancia Obligación de Servicio Público",
+        "Servicios de mercancías por ferrocarril",
+        "Servicios especiales de lanzadera urbana",
+        "Servicios ferroviarios internacionales gestionados por terceros"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Prestación de Servicios Comerciales\nLos Servicios Comerciales son aquellos que atienden las necesidades de demanda de movilidad del mercado y se prestan en régimen de libre competencia y pluralidad de oferta. Los servicios considerados comerciales son:\n• Alta Velocidad-Larga Distancia\n• Larga Distancia\n• Trenes Turísticos, cuyas Condiciones Generales de contratación se encuentran a disposición de los clientes en la web de Renfe.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "servicios comerciales",
+      "Renfe",
+      "libre competencia",
+      "trenes turísticos"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 16,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Servicios sujetos a Obligaciones de Servicio Público (OSP)",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de los siguientes servicios está sometido a obligaciones de servicio público según Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de los siguientes servicios NO está incluido entre los considerados sujetos a OSP?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        },
+        {
+          "texto": "¿Cuáles de los siguientes servicios están sujetos a obligaciones de servicio público?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Alta Velocidad-Media Distancia",
+        "Servicios de Media Distancia por vías de ancho métrico o ibérico",
+        "Servicios de Cercanías por vías de ancho métrico o ibérico"
+      ],
+      "respuestas_incorrectas": [
+        "Alta Velocidad-Larga Distancia",
+        "Trenes Turísticos",
+        "Servicios de mercancías",
+        "Servicios internacionales gestionados por terceros",
+        "Servicios lanzadera de ámbito urbano sin conexión ferroviaria"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Los tipos de servicios sometidos a obligaciones de servicio público son:\n• Alta Velocidad-Media Distancia.\n• Servicios de Media Distancia que circulan por vías de ancho métrico o ibérico/red de ancho convencional.\n• Servicios de Cercanías que discurren por vías de ancho métrico o ibérico/red de ancho convencional.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "OSP",
+      "servicios públicos",
+      "media distancia",
+      "cercanías",
+      "renfe"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 17,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Definición legal y competencias sobre los servicios OSP",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Quién define los servicios ferroviarios que deben prestarse como obligaciones de servicio público?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué norma regula las obligaciones de servicio público ferroviario prestadas por Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "La Administración General del Estado, mediante Acuerdo del Consejo de Ministros",
+        "El Reglamento (CE) 1370/2007 del Parlamento y del Consejo y el artículo 59.1 de la Ley 38/2015"
+      ],
+      "respuestas_incorrectas": [
+        "La Junta Directiva de Renfe Viajeros",
+        "El Ministerio de Turismo y Transportes de la Unión Europea",
+        "Los órganos directivos de cada estación ferroviaria",
+        "La Agencia Europea de Transporte Ferroviario y Marítimo",
+        "La normativa interna de Renfe para servicios comerciales"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Los servicios sujetos a obligaciones de servicio público por la Administración General del Estado [...] son los definidos en Acuerdo del Consejo de Ministros, de conformidad con el Reglamento (CE) 1370/2007 del Parlamento y del Consejo [...] y lo dispuesto en el artículo 59.1 de la Ley 38/2015, de 29 de septiembre, del sector ferroviario. Además de la Administración General del Estado, Renfe Viajeros presta en la actualidad otros servicios sometidos a obligaciones de servicio público por otras Administraciones competentes.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "alta",
+    "etiquetas": [
+      "legislación",
+      "OSP",
+      "Renfe",
+      "competencias",
+      "normativa europea"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+
+  {
+    "id": 11,
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Contenido del título de transporte (plaza asignada)",
+    "pagina": 12,
+    "tipo": "dinamica",
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de los siguientes datos debe aparecer en el título de transporte con asignación de plaza?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué dato NO forma parte del contenido obligatorio del título de transporte?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        },
+        {
+          "texto": "Señala cuál de estas opciones sí forma parte del contenido obligatorio del billete con asiento asignado.",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de estas opciones es correcta respecto al contenido del título de transporte?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "El número de tren",
+        "La hora de salida y llegada",
+        "El tipo de prestación de restauración en la plaza (si aplica)",
+        "La empresa ferroviaria que realizará el transporte",
+        "El coche, clase o tipo de asiento y número de plaza",
+        "La información sobre seguros o afianzamientos mercantiles",
+        "La indicación de que el transporte se rige por las reglas CIV",
+        "El precio total, incluidos complementos y gastos de gestión",
+        "El peso y volumen del equipaje o indicación de dónde consultar la información",
+        "La hora límite de presentación en controles de seguridad, si la hubiere"
+      ],
+      "respuestas_incorrectas": [
+        "El número de documento nacional de identidad del viajero",
+        "El nombre del canal donde se adquirió el billete",
+        "El tiempo estimado de embarque en minutos",
+        "El tipo de tarifa aplicada (Promo, Básica, etc.)",
+        "El itinerario completo de la ruta operado por otras empresas"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Contenido del título de transporte\nServicios con asignación de plaza\nEl título de transporte de los servicios con asignación de plaza deberá incluir la siguiente información:\n• La determinación de la empresa ferroviaria que realizará el transporte.\n• El origen del viaje y la hora de salida.\n• El destino del viaje y la hora de llegada.\n• Identificar número de tren.\n• Los transbordos que pudieran producirse con cambio de tren, especificando lugar y hora, en su caso.\n• El coche, la clase o tipo de asiento y el número de plaza.\n• En su caso, el tipo de prestación de restauración en la plaza.\n• El peso y volumen del equipaje admitido, o la indicación de dónde se puede consultar dicha información.\n• El precio total del transporte, incluidos los complementos adicionales al transporte, los gastos de gestión si los hubiere, así como la forma de pago.\n• El precio de facturación, en su caso, del equipaje.\n• La información sobre los seguros u otros afianzamientos mercantiles que el servicio tenga cubiertos.\n• La hora límite, si la hubiere, de presentación en los controles de seguridad para el acceso al tren, si el administrador de infraestructuras lo estableciera.\n• Indicación de que el transporte queda sometido a las Reglas Uniformes relativas al contrato de transporte internacional de viajeros y equipajes por ferrocarril (CIV).\nAquellos títulos de transporte que sean nominativos serán intransferibles y contarán con los datos necesarios para acreditar la identidad de la persona que viaja.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "alta",
+    "etiquetas": [
+      "billete",
+      "información obligatoria",
+      "plaza asignada",
+      "enumeración"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 18,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Factores que influyen en el precio de los Servicios Comerciales",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de los siguientes factores influye en el precio de los Servicios Comerciales de Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué elemento NO forma parte de los factores que determinan el precio en Servicios Comerciales?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        },
+        {
+          "texto": "¿Qué factores tienen influencia sobre el precio de los trenes comerciales de Renfe?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "El tren, la fecha, y el origen-destino del viaje",
+        "El canal de venta",
+        "Las condiciones comerciales seleccionadas por el cliente",
+        "Los tributos legales vigentes",
+        "La oferta y la demanda durante el periodo de venta"
+      ],
+      "respuestas_incorrectas": [
+        "La edad del revisor asignado al trayecto",
+        "El número de estaciones intermedias",
+        "El peso del equipaje del pasajero",
+        "La climatología prevista en el destino",
+        "La reputación digital del cliente en redes sociales"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Los precios ofertados para los viajes en los trenes de Servicios Comerciales dependerán de: tren-fecha, origen-destino, del canal de venta, de las condiciones comerciales que seleccione el cliente, así como de los tributos que legalmente existan en cada momento. Estas cuantías son dinámicas y pueden variar durante el periodo de venta de cada viaje o servicio, en función de la oferta y la demanda.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": ["precios", "servicios comerciales", "factores", "dinámica"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 23,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Autoridad que aprueba los precios en servicios OSP",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Quién aprueba y autoriza los precios de los servicios ferroviarios sujetos a obligaciones de servicio público?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué órgano tiene la competencia para autorizar los precios en los servicios de Renfe sujetos a OSP?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Los órganos competentes de la Administración",
+        "La Administración pública competente"
+      ],
+      "respuestas_incorrectas": [
+        "Renfe Viajeros",
+        "El Ministerio de Hacienda",
+        "La Agencia Estatal de Transportes Ferroviarios",
+        "Cada estación de origen",
+        "El operador privado de referencia"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Los precios de los servicios sometidos a estas obligaciones son aprobados y autorizados por los órganos competentes de la Administración.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "baja",
+    "etiquetas": ["OSP", "precios", "autoridad", "administración"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 24,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Estructura tarifaria en servicios de Cercanías",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cómo se estructuran los precios autorizados en el servicio de Cercanías de Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué característica define la estructura tarifaria de los trenes de Cercanías?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Se establece por Núcleo de Cercanías y por zonas recorridas",
+        "La estructura tarifaria depende del área geográfica (núcleo) y de las zonas del trayecto"
+      ],
+      "respuestas_incorrectas": [
+        "Es fija para todo el país, independientemente del recorrido",
+        "Depende del tipo de tren y de la hora de salida",
+        "Se calcula según la ocupación media histórica del trayecto",
+        "Está determinada por el número de paradas intermedias",
+        "Varía según la edad y profesión del viajero"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "La estructura del sistema tarifario del servicio de Cercanías permite establecer los precios autorizados por Núcleo de Cercanías, (área geográfica donde presta servicio los trenes de Cercanías), y zonas recorridas.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "baja",
+    "etiquetas": [
+      "cercanías",
+      "precios",
+      "núcleo",
+      "zonas",
+      "estructura tarifaria"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 25,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Estructura tarifaria en servicios de Media Distancia",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cómo se aplican las tarifas autorizadas en los servicios de Media Distancia de Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué define la estructura de los precios en los servicios de Media Distancia?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Cada oferta de servicio de Media Distancia tiene una estructura tarifaria única",
+        "Las tarifas autorizadas se aplican de forma individual a cada oferta de Media Distancia"
+      ],
+      "respuestas_incorrectas": [
+        "Se utiliza una tarifa plana en todos los trayectos de Media Distancia",
+        "El precio depende del clima y la hora del trayecto",
+        "Se establecen por núcleo regional y zonas, como en Cercanías",
+        "Las tarifas se fijan en función de la demanda en tiempo real",
+        "Varían según el tipo de asiento elegido por el pasajero"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Las estructuras de los sistemas tarifarios, de los cuales derivan los precios autorizados de los servicios de Media Distancia, son únicas y se aplican a cada oferta de servicio.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "baja",
+    "etiquetas": [
+      "media distancia",
+      "precios",
+      "tarifa única",
+      "estructura tarifaria"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 26,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Promociones y descuentos aplicables",
+    "pagina": 11,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuáles de las siguientes afirmaciones son correctas con respecto a las promociones y descuentos ofrecidos por Renfe Viajeros?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "Señala qué afirmaciones son verdaderas en relación con el acceso y aplicación de promociones o descuentos en Renfe.",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de las siguientes afirmaciones NO es correcta en relación con las promociones y descuentos en Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        }
+      ],
+      "respuestas_correctas": [
+        "Los productos comerciales pueden estar dirigidos al público general o a grupos específicos",
+        "Para acceder a los productos promocionales es necesario cumplir requisitos y aceptar condiciones de uso",
+        "En servicios OSP, solo los precios autorizados por la Administración sirven de base para calcular descuentos",
+        "En general, los descuentos en OSP no son acumulables salvo que se especifique lo contrario",
+        "Los descuentos por Familia Numerosa en OSP son acumulables salvo en casos con convenios o pagos no individualizados",
+        "En Servicios Comerciales, los descuentos por Familia Numerosa solo se aplican a la parte de transporte del precio"
+      ],
+      "respuestas_incorrectas": [
+        "Los descuentos comerciales son acumulables entre sí sin excepciones",
+        "Los productos promocionales se aplican únicamente en trenes de alta velocidad",
+        "En servicios OSP, los precios base pueden fijarse libremente por Renfe",
+        "La bonificación por Familia Numerosa es opcional y la determina cada oficina de venta",
+        "Solo los viajes internacionales permiten aplicar descuentos múltiples",
+        "Los descuentos en servicios comerciales se aplican automáticamente sin condiciones"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Renfe Viajeros pone a disposición de los clientes una serie de productos comerciales dirigidos al público en general o grupos/usuarios en particular. Para poder acceder a los mismos, será necesario, por una parte, cumplir los requisitos establecidos para cada uno de ellos, y por otra, aceptar las condiciones comerciales de utilización. Para los servicios sujetos a obligaciones de servicio público, los precios autorizados por la Administración son los únicos valores de partida para el cálculo de precios promocionales o con descuento. En general, para los Servicios sujetos a Obligaciones de Servicio Público los descuentos no serán acumulables a otras ofertas comerciales, salvo que expresamente así se especifique, en cuyo caso la acumulación de descuentos u ofertas solo será admitida en los términos establecidos en las condiciones de adquisición del producto comercial. Las reducciones aplicables a “Familia Numerosa” serán acumulables a cualquier otro descuento sobre la tarifa aplicable, salvo en los productos, servicios u ofertas establecidos en virtud de acuerdo o convenio, o en los que se utilicen o abonen de forma no individualizada. En Servicios Comerciales, los descuentos por “Familia Numerosa” serán aplicables únicamente a los precios y contraprestaciones que se refieran específicamente a los servicios de transporte, en los términos previstos en la normativa en la que se establece el procedimiento de bonificación a los miembros de familias numerosas y su posterior compensación a las empresas ferroviarias.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "alta",
+    "etiquetas": [
+      "descuentos",
+      "promociones",
+      "familia numerosa",
+      "OSP",
+      "acumulabilidad"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 28,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Modalidades oficiales de títulos de transporte",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Qué modalidades de títulos de transporte pone Renfe Viajeros a disposición de los clientes?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál es el conjunto de modalidades de títulos de transporte contemplado por Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Sencillo, Colectivo, Combinado y Multiviaje",
+        "Las cuatro modalidades ofrecidas son: Sencillo, Colectivo, Combinado y Multiviaje"
+      ],
+      "respuestas_incorrectas": [
+        "Sencillo, Familiar, Combinado y Especial",
+        "Colectivo, Multiviaje, Premium y Abono Regional",
+        "Turístico, Cercanías, Combinado y Flex",
+        "Estándar, Recurrente, Multiviaje y Ejecutivo",
+        "Básico, Compartido, Internacional y Flex"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Renfe Viajeros pone a disposición de los clientes las siguientes modalidades:\n• Títulos de transporte SENCILLO [...]\n• Títulos de transporte COLECTIVO [...]\n• Títulos de transporte COMBINADO [...]\n• Títulos de transporte MULTIVIAJE [...]",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "modalidades",
+      "sencillo",
+      "colectivo",
+      "combinado",
+      "multiviaje"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 29,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Definición del título de transporte SENCILLO",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de las siguientes descripciones corresponde a la modalidad de título de transporte SENCILLO?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué opción define correctamente el título de transporte SENCILLO ofrecido por Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Permite a una sola persona viajar en un único trayecto y fecha",
+        "Título unipersonal válido para un solo trayecto en una fecha concreta"
+      ],
+      "respuestas_incorrectas": [
+        "Permite a varios pasajeros viajar juntos en el mismo trayecto y fecha",
+        "Incluye distintos modos de transporte bajo un solo contrato",
+        "Es un abono válido para múltiples viajes durante un periodo determinado",
+        "Es un título exclusivo para familias numerosas",
+        "Permite viajes ilimitados durante 30 días desde la compra"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "• Títulos de transporte SENCILLO: Son aquellos cuya adquisición da derecho a viajar a una sola persona en un único trayecto y fecha, en tren o encaminamiento complementario. Cuando estos títulos de transporte sean nominativos, éstos serán personales e intransferibles.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": ["sencillo", "modalidades", "trayecto único", "unipersonal"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 30,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Definición del título de transporte COLECTIVO",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de las siguientes descripciones corresponde a la modalidad de título de transporte COLECTIVO?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué define correctamente un título de transporte COLECTIVO ofrecido por Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Permite a más de una persona viajar juntas en un mismo trayecto y fecha con un único título",
+        "Título pluripersonal válido para varios pasajeros en el mismo trayecto"
+      ],
+      "respuestas_incorrectas": [
+        "Permite realizar distintos viajes durante un periodo de validez",
+        "Es válido solo para viajes internacionales con reserva previa",
+        "Incluye varios modos de transporte bajo contratos diferentes",
+        "Se aplica únicamente a clientes con tarifa de grupo escolar",
+        "Solo es válido para billetes adquiridos en taquilla"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "• Títulos de transporte COLECTIVO: Son aquellos cuya adquisición da derecho a viajar a más de una persona en un mismo trayecto y fecha con un único título, en tren o, en su caso, encaminamiento complementario. Estos títulos de transporte son pluripersonales.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "colectivo",
+      "pluripersonal",
+      "trayecto común",
+      "modalidades"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 31,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Definición del título de transporte COMBINADO",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de las siguientes descripciones corresponde a la modalidad de título de transporte COMBINADO?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué caracteriza a un título de transporte COMBINADO según Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Formaliza distintos contratos de transporte e incluye varios modos de transporte en un único título",
+        "Permite combinar transporte ferroviario con otros modos y servicios asociados en un solo billete"
+      ],
+      "respuestas_incorrectas": [
+        "Es válido solo para viajes de ida y vuelta con descuento",
+        "Permite a más de una persona viajar juntas sin necesidad de identificación",
+        "Se utiliza exclusivamente para trenes de alta velocidad",
+        "Solo permite un único trayecto en una fecha específica",
+        "Se aplica exclusivamente a recorridos nacionales"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "• Títulos de transporte COMBINADO: Son aquellos que formalizan distintos contratos de transporte y que dan derecho a viajar en diferentes modos de transporte, incluyendo, en su caso, otros servicios asociados, en un único título. Cuando estos títulos de transporte sean nominativos serán personales e intransferibles.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "combinado",
+      "multimodal",
+      "servicios asociados",
+      "modalidades"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 32,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Definición del título de transporte MULTIVIAJE",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuál de las siguientes descripciones corresponde a la modalidad de título de transporte MULTIVIAJE?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué define correctamente un título MULTIVIAJE de Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Permite realizar varios viajes, limitados o ilimitados, durante su periodo de validez",
+        "Es un título unipersonal o pluripersonal válido para múltiples trayectos dentro de su vigencia"
+      ],
+      "respuestas_incorrectas": [
+        "Solo permite un trayecto ida y vuelta dentro de la misma semana",
+        "Es exclusivo para grupos escolares y no se vende a particulares",
+        "Incluye hotel y transporte en un único paquete",
+        "Solo se puede usar en servicios AVE",
+        "Caduca 24 horas después de su primer uso, sin excepciones"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "• Títulos de transporte MULTIVIAJE: Son los que permiten realizar distintos viajes, bien limitados a un número o ilimitados, durante su periodo de validez. Estos títulos de transporte pueden ser de carácter unipersonal o bien de carácter pluripersonal. Cuando sean unipersonales y nominativos, éstos serán personales e intransferibles.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "multiviaje",
+      "múltiples trayectos",
+      "validez",
+      "modalidades"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 33,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Condiciones de uso de los Títulos Multiviaje",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuáles de las siguientes afirmaciones son correctas con respecto a los Títulos Multiviaje?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué afirmaciones son verdaderas en relación con la formalización y validación de los Títulos Multiviaje?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 3,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de las siguientes afirmaciones NO es correcta sobre el uso de los Títulos Multiviaje?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        }
+      ],
+      "respuestas_correctas": [
+        "Los Títulos Multiviaje deben indicar su periodo de validez",
+        "No son válidos para viajar hasta ser formalizados o validados",
+        "La formalización consiste en obtener una plaza para una fecha y tren determinados",
+        "La validación implica reflejar electrónicamente que se va a realizar el viaje",
+        "La compra, reserva y formalización deben hacerse en canales de venta habilitados"
+      ],
+      "respuestas_incorrectas": [
+        "Los Títulos Multiviaje se activan automáticamente al comprarlos",
+        "La validación es opcional si el viajero lleva su DNI",
+        "Se pueden usar sin formalización si el trayecto es corto",
+        "La formalización solo es necesaria para viajes en fin de semana",
+        "Pueden validarse verbalmente al personal de abordo sin más requisitos",
+        "No es necesario pasar por máquinas validadoras si se reserva por teléfono"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Los Títulos Multiviaje indicarán su periodo de validez. Estos títulos no son válidos por sí mismos para poder viajar hasta que se formalicen o validen para cada viaje, en las máquinas validadoras dispuestas en las estaciones o a bordo de los trenes. La formalización es la obtención de una plaza para una fecha y tren determinados. La validación de un título de transporte es la acción de reflejar de forma mecanizada o electrónica, en los equipos o sistemas destinados para ello, la realización del viaje. Tanto la compra del título de transporte, la reserva de este y su posterior adquisición, como la formalización de los Títulos Multiviaje, deberán realizarse en los canales de venta habilitados al efecto.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "alta",
+    "etiquetas": [
+      "multiviaje",
+      "formalización",
+      "validación",
+      "canales de venta",
+      "uso correcto"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 34,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Definición de formalización de un título de transporte",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Qué se entiende por formalización de un Título Multiviaje según Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál es la definición correcta de formalización en el contexto del uso de Títulos Multiviaje?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "La obtención de una plaza para una fecha y tren determinados",
+        "Reservar un asiento concreto en un tren específico con fecha establecida"
+      ],
+      "respuestas_incorrectas": [
+        "El pago adicional por validar el billete en estación",
+        "La cancelación de un viaje previamente reservado",
+        "El uso del billete sin necesidad de validación electrónica",
+        "La autorización verbal de un revisor antes de abordar el tren",
+        "La asignación automática de un asiento al comprar el billete"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "La formalización es la obtención de una plaza para una fecha y tren determinados.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "formalización",
+      "reserva",
+      "multiviaje",
+      "título de transporte"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 35,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Definición de validación de un título de transporte",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Qué se entiende por validación de un título de transporte según Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál es la definición correcta de validación en el contexto del uso de títulos de transporte?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Reflejar electrónicamente en el sistema que el viaje será realizado",
+        "Registrar de forma mecanizada o electrónica el uso del título para un trayecto"
+      ],
+      "respuestas_incorrectas": [
+        "Confirmar verbalmente el viaje al revisor en el andén",
+        "Introducir manualmente los datos del billete en una aplicación móvil",
+        "Solicitar el cambio de fecha sin coste alguno",
+        "Canjear el título por un asiento preferente",
+        "Hacer check-in mediante código QR en el correo electrónico"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "La validación de un título de transporte es la acción de reflejar de forma mecanizada o electrónica, en los equipos o sistemas destinados para ello, la realización del viaje.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": ["validación", "sistema", "registro", "multiviaje"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 36,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Causas de invalidez del título de transporte",
+    "pagina": 12,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "El título de transporte se considera no válido cuando...",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿En qué casos el título de transporte pierde su validez según Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Cuando no ha sido formalizado o validado por el viajero",
+        "Si ha sido manipulado o falsificado",
+        "Si está deteriorado y no se pueden comprobar sus datos",
+        "Si contiene enmiendas, está plastificado o no se presenta la documentación habilitante",
+        "Si ha sido anulado, está caducado, agotado o no se corresponde con las condiciones del trayecto"
+      ],
+      "respuestas_incorrectas": [
+        "El pasajero decide cambiar de asiento durante el trayecto",
+        "Ha sido comprado con un método de pago no registrado",
+        "No incluye el código postal del comprador",
+        "Está en formato digital y no impreso",
+        "Fue adquirido con más de una semana de antelación",
+        "Fue mostrado desde un dispositivo móvil sin batería en el momento del control"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "El título de transporte se considera no válido si no se ha efectuado su formalización o validación, obligatoria por parte del viajero, o cuando se haya manipulado o se haya falsificado. También se considera inválido: si presenta cualquier deterioro que impida comprobar sus datos, si contiene cualquier enmienda, si está plastificado, si no se acompaña de la documentación necesaria habilitante para la naturaleza del título de transporte adquirido, si ha sido anulado, si está caducado, agotado, o si no se corresponde con las condiciones propias del viajero o del trayecto.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "alta",
+    "etiquetas": [
+      "validez",
+      "título de transporte",
+      "anulación",
+      "caducidad",
+      "documentación",
+      "fraude"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 38,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Plazos y gastos asociados al cambio de títulos",
+    "pagina": 13,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuándo y cómo pueden realizarse cambios en los títulos de transporte?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "El cambio de un título puede implicar gastos cuando...",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Se realiza dentro del plazo de cada canal de venta y puede implicar gastos salvo en ofertas que especifiquen gratuidad",
+        "Se efectúa con anticipación suficiente y puede tener coste, descontados los gastos de gestión"
+      ],
+      "respuestas_incorrectas": [
+        "Siempre requiere pagar un 10% adicional del billete",
+        "Solo se permite en taquilla con justificante médico",
+        "El cliente debe solicitarlo al menos con una semana de antelación",
+        "Solo aplica para títulos comprados online"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "El cambio se podrá realizar desde su adquisición y hasta el momento establecido según cada canal de venta [...] El cambio puede conllevar gastos [...] excepto en aquellas ofertas en las que se especifique que dicho cambio se realizará de forma gratuita.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": ["plazos", "canal de venta", "gastos", "cambio de billete"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 39,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Modalidades que no permiten cambio de billete",
+    "pagina": 13,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Qué títulos de transporte no admiten cambios según Renfe Viajeros?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "No es posible cambiar un título de transporte cuando se trata de...",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Títulos de Cercanías y Títulos Multiviaje (y sus formalizaciones) en AV-LD, LD y MD",
+        "Billetes de Cercanías y Multiviaje formalizados, en trayectos donde se excluye el cambio"
+      ],
+      "respuestas_incorrectas": [
+        "Títulos nominativos con asiento asignado",
+        "Títulos adquiridos mediante app móvil",
+        "Billetes con descuento de Familia Numerosa",
+        "Abonos mensuales para viajeros frecuentes",
+        "Títulos combinados para trayectos urbanos"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "• Los títulos de transporte de los servicios de Cercanías no admiten cambios. • Los Títulos Multiviaje y sus formalizaciones en los servicios de Alta Velocidad-Larga Distancia, Larga Distancia, Alta Velocidad-Media Distancia y Media Distancia Convencional tampoco admiten cambios.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": [
+      "cercanías",
+      "multiviaje",
+      "cambios no permitidos",
+      "modalidades"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 41,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Condiciones para anulación de títulos de transporte",
+    "pagina": 13,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuándo pueden anularse los títulos de transporte en los servicios AV-LD, LD, AV-MD y MD Convencional?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "Los títulos de transporte podrán ser anulados cuando...",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "Se encuentren dentro del periodo de validez y no pertenezcan a una tarifa que excluya anulaciones",
+        "El producto contratado lo permita según sus condiciones y se cumpla el plazo previsto"
+      ],
+      "respuestas_incorrectas": [
+        "Fueron adquiridos con más de 48h de antelación",
+        "Incluyen equipaje facturado",
+        "Se trata de billetes internacionales",
+        "Son nominativos o colectivos",
+        "No han sido utilizados dentro de los 7 días posteriores a su compra"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "En los servicios de Alta Velocidad-Larga Distancia, Larga Distancia, Alta Velocidad-Media Distancia y Media Distancia Convencional, los títulos de transporte podrán ser anulados, en general, dentro de su periodo de validez, excepto los correspondientes a aquellas opciones de precios y tarifas que expresamente indiquen que no admiten anulaciones.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "media",
+    "etiquetas": ["anulación", "validez", "tarifa", "renfe"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 44,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título II – Servicio de Transporte Ferroviario",
+    "tema": "Condiciones de anulación en Cercanías",
+    "pagina": 13,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuándo pueden anularse los títulos de transporte en los servicios de Cercanías?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "En Cercanías, un título puede ser anulado solamente si...",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "positiva"
+        }
+      ],
+      "respuestas_correctas": [
+        "La anulación se realiza en el momento de la compra y no ha sido validado",
+        "Aún no se ha efectuado validación en los equipos destinados a ello"
+      ],
+      "respuestas_incorrectas": [
+        "Fue adquirido por internet y aún no ha sido impreso",
+        "El viajero informa al revisor antes del embarque",
+        "Tiene una validez inferior a 24 horas",
+        "Ha sido comprado con tarjeta prepago de Renfe"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "En los servicios de Cercanías solo se admiten las anulaciones de los títulos de transporte en el momento de la compra y siempre que no se haya realizado la validación en los equipos destinados a ello. Esta anulación no generará coste alguno para el cliente.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "baja",
+    "etiquetas": ["cercanías", "anulación", "validación", "plazo", "renfe"],
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "id": 45,
+    "tipo": "dinamica",
+    "libro": "Condiciones Generales de los Contratos de Transporte",
+    "capitulo": "Título VIII – Derechos y Obligaciones de los Viajeros",
+    "tema": "Derechos reconocidos a los viajeros",
+    "pagina": 20,
+    "pregunta_dinamica": {
+      "formulaciones": [
+        {
+          "texto": "¿Cuáles de los siguientes derechos están reconocidos a los viajeros de Renfe Viajeros?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 10,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Qué afirmaciones corresponden a derechos de los viajeros según las Condiciones Generales de Renfe?",
+          "modo": "todas_correctas",
+          "cantidad_correctas": 10,
+          "tipo": "positiva"
+        },
+        {
+          "texto": "¿Cuál de las siguientes afirmaciones NO corresponde a un derecho reconocido de los viajeros de Renfe?",
+          "modo": "una_correcta",
+          "cantidad_correctas": 1,
+          "tipo": "negativa"
+        }
+      ],
+      "respuestas_correctas": [
+        "A conocer la existencia de las Condiciones Generales y acceder a ellas en varios canales",
+        "A recibir información anticipada sobre horarios, precios y situación de trenes",
+        "A solicitar datos previos sobre condiciones del viaje, plazas y servicios complementarios",
+        "A ser informados durante el viaje sobre paradas, servicios y posibles incidencias",
+        "A celebrar un contrato de transporte adquiriendo un título válido",
+        "A recibir el servicio contratado en condiciones adecuadas de calidad y seguridad",
+        "A conocer los procedimientos para resolver controversias, incluyendo reclamaciones y arbitraje",
+        "A presentar reclamaciones mediante los formularios oficiales o ante organismos competentes",
+        "A ser resarcidos por perjuicios causados por incumplimientos de Renfe Viajeros",
+        "A cambiar o anular sus títulos de transporte conforme a las condiciones aplicables"
+      ],
+      "respuestas_incorrectas": [
+        "A recibir transporte gratuito en caso de pérdida del tren por causas personales",
+        "A acceder al tren sin título válido si no hay taquilla operativa",
+        "A cambiar la ruta contratada durante el trayecto sin coste adicional",
+        "A recibir compensación automática por cualquier retraso superior a 5 minutos",
+        "A reservar asientos especiales sin suplemento en todos los servicios",
+        "A reclamar la devolución completa del billete en caso de mal tiempo",
+        "A exigir el cambio de clase en caso de ocupación elevada",
+        "A obtener prioridad de embarque en función del orden de llegada al andén",
+        "A viajar con animales de compañía sin limitaciones ni condiciones",
+        "A modificar la titularidad del billete hasta el momento del embarque"
+      ],
+      "versiones_anteriores": []
+    },
+    "fragmento_original": "Los viajeros de Renfe Viajeros tienen, entre otros, los siguientes derechos: 1. A ser informados de la existencia de estas Condiciones Generales [...] 10. A cambiar y anular sus títulos de transporte en los términos previstos en estas Condiciones Generales y en las condiciones comerciales específicas de aplicación.",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "nivel_dificultad": "alta",
+    "etiquetas": [
+      "derechos",
+      "viajeros",
+      "renfe",
+      "información",
+      "reclamaciones",
+      "contrato",
+      "anulación",
+      "resarcimiento"
+    ],
+    "proxima_revision": null,
+    "notas_personales": ""
+  }
+]
