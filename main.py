@@ -4,6 +4,11 @@ import os
 import datetime
 import readchar
 
+# Colores ANSI para CLI (modo oscuro)
+RESET = "\033[0m"
+GREEN = "\033[92m"  # Verde brillante
+RED = "\033[91m"    # Rojo brillante
+
 # Cargar preguntas
 with open("temario-completo.json", encoding="utf-8") as f:
     preguntas = json.load(f)
@@ -138,6 +143,18 @@ for item in preguntas_seleccionadas:
             ahora = datetime.datetime.now().isoformat()
             item["veces_vista"] += 1
             item["ultima_vez_vista"] = ahora
+
+            print("")
+            for i, opcion in enumerate(opciones):
+                if i == indice_usuario and opciones[i] == respuesta_correcta:
+                    print(f"{GREEN}{i+1}. {opcion}{RESET}")
+                elif i == indice_usuario:
+                    print(f"{RED}{i+1}. {opcion}{RESET}")
+                elif opciones[i] == respuesta_correcta:
+                    print(f"{GREEN}{i+1}. {opcion}{RESET}")
+                else:
+                    print(f"{i+1}. {opcion}")
+
             if opciones[indice_usuario] == respuesta_correcta:
                 print("✅ ¡Correcto!\n")
                 item["aciertos_consecutivos"] += 1
