@@ -14,24 +14,48 @@ TODAS_TEXTO = "Todas las anteriores son correctas."
 
 # Función para priorizar preguntas
 
+# def priorizar_preguntas(lista, n=None):
+#     def puntaje(p):
+#         score = 0
+#         if p.get("veces_vista", 0) == 0:
+#             score -= 50  # prioridad máxima para no vistas
+#         score += p.get("fallos_totales", 0) * 10
+#         score -= p.get("aciertos_consecutivos", 0) * 5
+#         if p.get("ultima_vez_vista"):
+#             try:
+#                 vista = datetime.datetime.fromisoformat(p["ultima_vez_vista"])
+#                 dias = (datetime.datetime.now() - vista).days
+#                 score += dias  # más días, más prioridad
+#             except Exception:
+#                 score += 0
+#         return score
+
+#     ordenadas = sorted(lista, key=puntaje, reverse=True)
+#     return ordenadas[:n] if n else ordenadas
+
+
 def priorizar_preguntas(lista, n=None):
+    no_vistas = [p for p in lista if p.get("veces_vista", 0) == 0]
+    vistas = [p for p in lista if p.get("veces_vista", 0) > 0]
+
     def puntaje(p):
         score = 0
-        if p.get("veces_vista", 0) == 0:
-            score -= 50  # prioridad máxima para no vistas
         score += p.get("fallos_totales", 0) * 10
         score -= p.get("aciertos_consecutivos", 0) * 5
         if p.get("ultima_vez_vista"):
             try:
                 vista = datetime.datetime.fromisoformat(p["ultima_vez_vista"])
                 dias = (datetime.datetime.now() - vista).days
-                score += dias  # más días, más prioridad
+                score += dias
             except Exception:
-                score += 0
+                pass
         return score
 
-    ordenadas = sorted(lista, key=puntaje, reverse=True)
-    return ordenadas[:n] if n else ordenadas
+    vistas_ordenadas = sorted(vistas, key=puntaje, reverse=True)
+    combinadas = no_vistas + vistas_ordenadas
+
+    return combinadas[:n] if n else combinadas
+
 
 # Cargar preguntas
 with open("temario-completo.json", encoding="utf-8") as f:
@@ -108,7 +132,9 @@ elif modo == "4":
     preguntas_seleccionadas = []
     for nombre_libro, cantidad in preguntas_por_libro:
         preguntas_libro = [p for p in preguntas if p["libro"] == nombre_libro]
-        seleccionadas = random.sample(preguntas_libro, min(cantidad, len(preguntas_libro)))
+        seleccionadas = random.sample(
+            preguntas_libro, min(cantidad, len(preguntas_libro))
+        )
         preguntas_seleccionadas.extend(seleccionadas)
 
 else:
@@ -117,7 +143,9 @@ else:
 
 resumen_errores = []
 
-print("\n--- Entrenamiento iniciado. Presiona 1-4 para responder, 'x' para salir. ---\n")
+print(
+    "\n--- Entrenamiento iniciado. Presiona 1-4 para responder, 'x' para salir. ---\n"
+)
 
 for item in preguntas_seleccionadas:
     formulacion = random.choice(item["formulaciones"])
