@@ -15,6 +15,7 @@ for p in preguntas:
     if libro not in libros_disponibles:
         libros_disponibles.append(libro)
 
+
 # Menú inicial con readchar
 print("\n--- Selecciona un modo de entrenamiento ---")
 print("1. Modo libre")
@@ -135,17 +136,10 @@ for item in preguntas_seleccionadas:
         key = readchar.readkey()
         if key in ["1", "2", "3", "4"]:
             indice_usuario = int(key) - 1
-            ahora = datetime.datetime.now().isoformat()
-            item["veces_vista"] += 1
-            item["ultima_vez_vista"] = ahora
             if opciones[indice_usuario] == respuesta_correcta:
                 print("✅ ¡Correcto!\n")
-                item["aciertos_consecutivos"] += 1
-                item["ultima_vez_acertada"] = ahora
             else:
                 print("❌ Incorrecto.\n")
-                item["aciertos_consecutivos"] = 0
-                item["fallos_totales"] += 1
                 resumen_errores.append(
                     {
                         "pregunta": pregunta,
@@ -163,10 +157,6 @@ for item in preguntas_seleccionadas:
 
     if key.lower() == "x":
         break
-
-# Guardar archivo actualizado
-with open("temario-completo.json", "w", encoding="utf-8") as f:
-    json.dump(preguntas, f, indent=2, ensure_ascii=False)
 
 # Guardar resumen
 if resumen_errores:

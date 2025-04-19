@@ -16,12 +16,12 @@ os.makedirs("temario", exist_ok=True)
 for nombre_archivo, nombre_libro in ARCHIVOS_LIBROS:
     ruta_salida = f"temario/{nombre_archivo}.json"
 
-    # Generar 80 preguntas mock
+    # Generar 20 preguntas mock
     mock_preguntas = []
-    for i in range(1, 81):
+    for i in range(1, 21):
         pregunta = {
             "libro": nombre_libro,
-            "capitulo": f"Capítulo Mock {((i - 1) // 10) + 1}",
+            "capitulo": f"Capítulo Mock {((i - 1) // 5) + 1}",
             "formulaciones": [
                 {
                     "texto": f"¿Puedes responder esta mock-pregunta {i}?",
