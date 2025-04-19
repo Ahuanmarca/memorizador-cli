@@ -350,8 +350,8 @@
         "tipo": "positiva"
       },
       {
-        "texto": "¿Qué elementos influyen en el precio de los servicios comerciales?",
-        "modo": "todas_correctas",
+        "texto": "¿Cuál de los siguientes factores influye en el precio de los servicios comerciales?",
+        "modo": "una_correcta",
         "tipo": "positiva"
       },
       {
@@ -586,11 +586,6 @@
         "texto": "¿Qué opción describe correctamente la modalidad SENCILLO en los títulos de transporte?",
         "modo": "una_correcta",
         "tipo": "positiva"
-      },
-      {
-        "texto": "¿Cuál de las siguientes características NO corresponde a un título de transporte SENCILLO?",
-        "modo": "una_correcta",
-        "tipo": "negativa"
       }
     ],
     "respuestas_correctas": [
@@ -619,11 +614,6 @@
         "texto": "¿Qué opción describe correctamente la modalidad COLECTIVO en los títulos de transporte?",
         "modo": "una_correcta",
         "tipo": "positiva"
-      },
-      {
-        "texto": "¿Cuál de las siguientes características NO corresponde a un título de transporte COLECTIVO?",
-        "modo": "una_correcta",
-        "tipo": "negativa"
       }
     ],
     "respuestas_correctas": [
@@ -953,6 +943,11 @@
       {
         "texto": "¿En qué casos se considera no válido un título de transporte según Renfe Viajeros?",
         "modo": "todas_correctas",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿En cuál de los siguientes casos se considera inválido el título?",
+        "modo": "una_correcta",
         "tipo": "positiva"
       }
     ],
@@ -1867,6 +1862,11 @@
         "texto": "¿Qué derechos tienen los viajeros según las Condiciones Generales de Renfe?",
         "modo": "todas_correctas",
         "tipo": "positiva"
+      },
+      {
+        "texto": "Selecciona el derecho que no tienen reconocidos los viajeros:",
+        "modo": "una_correcta",
+        "tipo": "negativa"
       }
     ],
     "respuestas_correctas": [
@@ -1936,54 +1936,6 @@
       "Descuentos especiales para acompañantes no registrados",
       "Estadísticas mensuales de puntualidad del servicio",
       "Historial de mantenimiento del tren asignado"
-    ],
-    "fragmento_original": "A recibir antes del viaje, cuando así lo soliciten, la siguiente información: • Horarios y condiciones del viaje más rápido y de las opciones de precio y tarifas más económicas. • Accesibilidad, condiciones de acceso y disponibilidad de instalaciones para personas con discapacidad o movilidad reducida. • Asientos o plazas disponibles. • Actividades que puedan perturbar o retrasar los servicios. • Disponibilidad de servicios complementarios. • Condiciones para la admisión de equipaje y accesibilidad y condiciones de acceso para bicicletas. • Procedimientos para recuperar el equipaje olvidado o perdido. • Procedimientos para presentar reclamaciones y quejas.",
-    "etiquetas": [
-      "información previa",
-      "derechos del viajero",
-      "antes del viaje",
-      "renfe"
-    ]
-  },
-  {
-    "libro": "Condiciones Generales",
-    "capitulo": "Título VIII – Derechos y Obligaciones de los Viajeros",
-    "formulaciones": [
-      {
-        "texto": "¿Qué tipo de información tiene derecho a recibir un viajero antes del viaje si así lo solicita?",
-        "modo": "una_correcta",
-        "tipo": "positiva"
-      },
-      {
-        "texto": "¿Cuál de las siguientes opciones NO forma parte de la información que Renfe debe proporcionar antes del viaje, si el viajero lo solicita?",
-        "modo": "una_correcta",
-        "tipo": "negativa"
-      },
-      {
-        "texto": "¿Cuál de las siguientes afirmaciones es verdadera respecto a la información previa al viaje que puede solicitar un viajero?",
-        "modo": "todas_correctas",
-        "tipo": "positiva"
-      }
-    ],
-    "respuestas_correctas": [
-      "Horarios y condiciones del viaje más rápido",
-      "Opciones de precio y tarifas más económicas",
-      "Accesibilidad y condiciones para personas con movilidad reducida",
-      "Disponibilidad de asientos o plazas",
-      "Actividades que puedan perturbar el servicio",
-      "Disponibilidad de servicios complementarios",
-      "Condiciones para la admisión de equipaje y bicicletas",
-      "Procedimientos para recuperar equipaje perdido",
-      "Procedimientos para presentar reclamaciones o quejas"
-    ],
-    "respuestas_incorrectas": [
-      "Nombre del conductor del tren y su número de identificación",
-      "Temperatura interior prevista del tren",
-      "Lista completa de pasajeros del vagón",
-      "Estadísticas anuales de ocupación por trayecto",
-      "Resumen histórico de retrasos de la línea",
-      "Promociones para trayectos combinados con avión",
-      "Presupuesto estimado del mantenimiento del tren asignado"
     ],
     "fragmento_original": "A recibir antes del viaje, cuando así lo soliciten, la siguiente información: • Horarios y condiciones del viaje más rápido y de las opciones de precio y tarifas más económicas. • Accesibilidad, condiciones de acceso y disponibilidad de instalaciones para personas con discapacidad o movilidad reducida. • Asientos o plazas disponibles. • Actividades que puedan perturbar o retrasar los servicios. • Disponibilidad de servicios complementarios. • Condiciones para la admisión de equipaje y accesibilidad y condiciones de acceso para bicicletas. • Procedimientos para recuperar el equipaje olvidado o perdido. • Procedimientos para presentar reclamaciones y quejas.",
     "etiquetas": [
@@ -2205,7 +2157,7 @@
       {
         "texto": "¿Cuál de las siguientes conductas NO está permitida según las Condiciones Generales de Renfe?",
         "modo": "una_correcta",
-        "tipo": "negativa"
+        "tipo": "positiva"
       }
     ],
     "respuestas_correctas": [
@@ -2850,7 +2802,7 @@
       },
       {
         "texto": "¿Qué puede hacer un viajero si se informa de un retraso en la salida del tren antes del inicio del viaje?",
-        "modo": "todas_correctas",
+        "modo": "una_correcta",
         "tipo": "positiva"
       },
       {
@@ -2880,7 +2832,7 @@
     "formulaciones": [
       {
         "texto": "¿Qué puede hacer el viajero si el tren llega con 60 minutos o más de retraso al destino?",
-        "modo": "todas_correctas",
+        "modo": "una_correcta",
         "tipo": "positiva"
       },
       {
@@ -2923,11 +2875,6 @@
         "texto": "¿Qué compensación recibe un cliente si su tren llega con 60 o más minutos de retraso?",
         "modo": "una_correcta",
         "tipo": "positiva"
-      },
-      {
-        "texto": "¿Qué indemnización NO corresponde legalmente ante retrasos de 60 o más minutos?",
-        "modo": "una_correcta",
-        "tipo": "negativa"
       }
     ],
     "respuestas_correctas": [
@@ -2957,11 +2904,6 @@
         "texto": "¿Qué actuación corresponde si se interrumpe el viaje por bloqueo del tren en la vía?",
         "modo": "una_correcta",
         "tipo": "positiva"
-      },
-      {
-        "texto": "¿Cuál de las siguientes opciones NO es una actuación prevista cuando el tren queda bloqueado en la vía?",
-        "modo": "una_correcta",
-        "tipo": "negativa"
       }
     ],
     "respuestas_correctas": [
@@ -3024,17 +2966,7 @@
     "formulaciones": [
       {
         "texto": "¿En qué condiciones garantiza Renfe Viajeros el enlace entre sus trenes?",
-        "modo": "todas_correctas",
-        "tipo": "positiva"
-      },
-      {
-        "texto": "¿Cuál de las siguientes condiciones son necesarias para que Renfe garantice el enlace entre trenes?",
-        "modo": "todas_correctas",
-        "tipo": "positiva"
-      },
-      {
-        "texto": "¿Qué condiciones deben cumplirse para que se aplique la garantía de enlace entre trenes de Renfe Viajeros?",
-        "modo": "todas_correctas",
+        "modo": "una_correcta",
         "tipo": "positiva"
       }
     ],
