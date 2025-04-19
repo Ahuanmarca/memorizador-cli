@@ -103,21 +103,7 @@ if errores:
             f.write(f"- {err}\n")
 
 # Feedback al usuario
-# print(f"\n✔ Preguntas válidas concatenadas: {len(temario_consolidado)}")
-# if errores:
-#     print(f"⚠ Se registraron errores. Revisa el archivo {log_errores}")
-# else:
-#     print("✅ No se encontraron errores.")
-
-# Feedback al usuario
-total_preexistentes = len([item for item in temario_consolidado if generar_hash(item) in hash_existentes])
-total_nuevas = len(temario_consolidado) - total_preexistentes
-total_final = len(temario_consolidado)
-
-print(f"\n📄 Preguntas preexistentes conservadas: {total_preexistentes}")
-print(f"🆕 Preguntas nuevas agregadas: {total_nuevas}")
-print(f"📚 Total de preguntas en temario-completo.json: {total_final}")
-
+print(f"\n✔ Preguntas válidas concatenadas: {len(temario_consolidado)}")
 if errores:
     print(f"⚠ Se registraron errores. Revisa el archivo {log_errores}")
 else:
