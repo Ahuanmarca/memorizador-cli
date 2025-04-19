@@ -9,7 +9,6 @@ with open("temario-completo.json", encoding="utf-8") as f:
     preguntas = json.load(f)
 
 # Obtener libros únicos
-# libros_disponibles = sorted(set(p["libro"] for p in preguntas))
 libros_disponibles = []
 for p in preguntas:
     libro = p["libro"]
@@ -55,12 +54,40 @@ elif modo == "2":
             print("Entrada inválida. Presiona un número válido o 'x'.")
 
 elif modo == "3":
-    print("\n📌 El modo 'Test corto' está en construcción.")
-    exit()
+    preguntas_por_libro = (
+        ("Condiciones Generales", 5),
+        ("Normativa Comercial", 3),
+        ("Pases Internacionales", 2),
+        ("Plan de Igualdad de Género", 4),
+        ("Cultura de Seguridad", 3),
+        ("Experiencia de Usuario", 3),
+    )
+
+    preguntas_seleccionadas = []
+    for nombre_libro, cantidad in preguntas_por_libro:
+        preguntas_libro = [p for p in preguntas if p["libro"] == nombre_libro]
+        seleccionadas = random.sample(
+            preguntas_libro, min(cantidad, len(preguntas_libro))
+        )
+        preguntas_seleccionadas.extend(seleccionadas)
 
 elif modo == "4":
-    print("\n📌 El modo 'Test completo' está en construcción.")
-    exit()
+    preguntas_por_libro = (
+        ("Condiciones Generales", 15),
+        ("Normativa Comercial", 9),
+        ("Pases Internacionales", 6),
+        ("Plan de Igualdad de Género", 12),
+        ("Cultura de Seguridad", 9),
+        ("Experiencia de Usuario", 9),
+    )
+
+    preguntas_seleccionadas = []
+    for nombre_libro, cantidad in preguntas_por_libro:
+        preguntas_libro = [p for p in preguntas if p["libro"] == nombre_libro]
+        seleccionadas = random.sample(
+            preguntas_libro, min(cantidad, len(preguntas_libro))
+        )
+        preguntas_seleccionadas.extend(seleccionadas)
 
 else:
     print("\nOpción no válida. Saliendo.")
