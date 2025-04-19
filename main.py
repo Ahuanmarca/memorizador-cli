@@ -9,6 +9,30 @@ RESET = "\033[0m"
 GREEN = "\033[92m"  # Verde brillante
 RED = "\033[91m"  # Rojo brillante
 
+# Texto para distractor / respuesta real
+TODAS_TEXTO = "Todas las anteriores son correctas."
+
+# Función para priorizar preguntas
+
+def priorizar_preguntas(lista, n=None):
+    def puntaje(p):
+        score = 0
+        if p.get("veces_vista", 0) == 0:
+            score -= 50  # prioridad máxima para no vistas
+        score += p.get("fallos_totales", 0) * 10
+        score -= p.get("aciertos_consecutivos", 0) * 5
+        if p.get("ultima_vez_vista"):
+            try:
+                vista = datetime.datetime.fromisoformat(p["ultima_vez_vista"])
+                dias = (datetime.datetime.now() - vista).days
+                score += dias  # más días, más prioridad
+            except Exception:
+                score += 0
+        return score
+
+    ordenadas = sorted(lista, key=puntaje, reverse=True)
+    return ordenadas[:n] if n else ordenadas
+
 # Cargar preguntas
 with open("temario-completo.json", encoding="utf-8") as f:
     preguntas = json.load(f)
@@ -31,7 +55,7 @@ print("Presiona una tecla (1-4) o 'x' para salir")
 modo = readchar.readkey()
 
 if modo == "1":
-    preguntas_seleccionadas = random.sample(preguntas, len(preguntas))
+    preguntas_seleccionadas = priorizar_preguntas(preguntas)
 
 elif modo == "2":
     print("\nLibros disponibles:")
@@ -47,10 +71,8 @@ elif modo == "2":
             indice = int(key) - 1
             if 0 <= indice < len(libros_disponibles):
                 libro_elegido = libros_disponibles[indice]
-                preguntas_seleccionadas = [
-                    p for p in preguntas if p["libro"] == libro_elegido
-                ]
-                random.shuffle(preguntas_seleccionadas)
+                preguntas_libro = [p for p in preguntas if p["libro"] == libro_elegido]
+                preguntas_seleccionadas = priorizar_preguntas(preguntas_libro)
                 break
             else:
                 print("\nÍndice fuera de rango. Intenta de nuevo.")
@@ -70,9 +92,7 @@ elif modo == "3":
     preguntas_seleccionadas = []
     for nombre_libro, cantidad in preguntas_por_libro:
         preguntas_libro = [p for p in preguntas if p["libro"] == nombre_libro]
-        seleccionadas = random.sample(
-            preguntas_libro, min(cantidad, len(preguntas_libro))
-        )
+        seleccionadas = priorizar_preguntas(preguntas_libro, cantidad)
         preguntas_seleccionadas.extend(seleccionadas)
 
 elif modo == "4":
@@ -88,9 +108,7 @@ elif modo == "4":
     preguntas_seleccionadas = []
     for nombre_libro, cantidad in preguntas_por_libro:
         preguntas_libro = [p for p in preguntas if p["libro"] == nombre_libro]
-        seleccionadas = random.sample(
-            preguntas_libro, min(cantidad, len(preguntas_libro))
-        )
+        seleccionadas = random.sample(preguntas_libro, min(cantidad, len(preguntas_libro)))
         preguntas_seleccionadas.extend(seleccionadas)
 
 else:
@@ -99,9 +117,7 @@ else:
 
 resumen_errores = []
 
-print(
-    "\n--- Entrenamiento iniciado. Presiona 1-4 para responder, 'x' para salir. ---\n"
-)
+print("\n--- Entrenamiento iniciado. Presiona 1-4 para responder, 'x' para salir. ---\n")
 
 for item in preguntas_seleccionadas:
     formulacion = random.choice(item["formulaciones"])
@@ -114,19 +130,15 @@ for item in preguntas_seleccionadas:
     opciones = []
     respuesta_correcta = ""
 
-    todas_texto = "Todas las anteriores son correctas."
-
     if modo == "una_correcta" and tipo == "positiva":
         respuesta_correcta = random.choice(correctas)
         opciones = [respuesta_correcta] + random.sample(incorrectas, 3)
 
         # Posibilidad de incluir "Todas las anteriores son correctas" como distractor
-        if random.random() < 0.25 and todas_texto not in opciones:
-            # Reemplazar una incorrecta por el distractor, que irá como última opción
-            opciones = opciones[:3] + [todas_texto]
-
+        if random.random() < 0.25 and TODAS_TEXTO not in opciones:
+            opciones = opciones[:3] + [TODAS_TEXTO]
         else:
-            opciones = random.sample(opciones, 4)  # Asegurar mezcla
+            random.shuffle(opciones)
 
     elif modo == "una_correcta" and tipo == "negativa":
         respuesta_correcta = random.choice(incorrectas)
@@ -134,7 +146,7 @@ for item in preguntas_seleccionadas:
 
     elif modo == "todas_correctas" and tipo == "positiva":
         seleccionadas = random.sample(correctas, 3)
-        respuesta_correcta = "Todas las anteriores son correctas."
+        respuesta_correcta = TODAS_TEXTO
         opciones = seleccionadas + [respuesta_correcta]
 
     elif modo == "todas_correctas" and tipo == "negativa":
@@ -142,14 +154,12 @@ for item in preguntas_seleccionadas:
         respuesta_correcta = "Todas las anteriores."
         opciones = seleccionadas + [respuesta_correcta]
 
-    # Reordenar opciones dejando "Todas las anteriores son correctas." en posición 4 si existe
-    if todas_texto in opciones:
-        opciones = [opt for opt in opciones if opt != todas_texto]
-        opciones = random.sample(opciones, 3) + [todas_texto]
+    # Reordenar si hay "Todas las anteriores son correctas"
+    if TODAS_TEXTO in opciones:
+        opciones = [opt for opt in opciones if opt != TODAS_TEXTO]
+        opciones = random.sample(opciones, 3) + [TODAS_TEXTO]
     else:
         random.shuffle(opciones)
-
-    # random.shuffle(opciones)
 
     print(f"\n{pregunta}\n")
     for i, opcion in enumerate(opciones):
