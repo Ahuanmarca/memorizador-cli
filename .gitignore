@@ -1,0 +1,50 @@
+# --- 🖥️ macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+*.qlgenerator
+
+# --- 🐍 Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+.eggs/
+
+# --- 📦 Node.js ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log
+
+# --- 🦀 Rust ---
+target/
+Cargo.lock
+
+# --- 🛠️ VSCode / editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- 🧪 Tests / cobertura ---
+coverage/
+htmlcov/
+*.cover
+*.log
+
+# --- 🔒 Secretos (si usas dotenv) ---
+.env
+.env.*
