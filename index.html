@@ -1,0 +1,237 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Entrenamiento Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background-color: #121212;
+      color: #fff;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .menu, .quiz-container, .libros-container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .btn {
+      display: block;
+      width: 100%;
+      padding: 1rem;
+      margin: 0.5rem 0;
+      font-size: 1rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .btn:hover {
+      opacity: 0.9;
+    }
+    .green { background-color: #00cc66; }
+    .red { background-color: #ff3333; }
+    .gray { background-color: #444; }
+    .question {
+      font-size: 1.2rem;
+      margin: 1rem 0;
+    }
+    .answers button {
+      margin-bottom: 0.5rem;
+    }
+    #next-btn {
+      margin-top: 1rem;
+      background-color: #0066ff;
+    }
+    @media (max-width: 600px) {
+      .btn {
+        font-size: 1rem;
+        padding: 0.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Entrenamiento Quiz</h1>
+  <div class="menu">
+    <button class="btn gray" onclick="startQuiz('libre')">Modo libre</button>
+    <button class="btn gray" onclick="mostrarLibros()">Modo por libro</button>
+    <button class="btn gray" onclick="startQuiz('testCorto')">Test corto</button>
+    <button class="btn gray" onclick="startQuiz('testCompleto')">Test completo</button>
+  </div>
+
+  <div class="libros-container" style="display:none">
+    <h2>Elige un libro</h2>
+    <div id="libros-botones"></div>
+    <button class="btn gray" onclick="volverAlMenu()">Volver al menú</button>
+  </div>
+
+  <div class="quiz-container" style="display:none">
+    <div id="question-container">
+      <h2 class="question" id="question-text"></h2>
+      <div class="answers" id="answers"></div>
+      <button id="next-btn" class="btn" onclick="nextQuestion()" style="display:none">Siguiente</button>
+    </div>
+  </div>
+
+  <script src="temario-completo.js"></script>
+
+  <script>
+    let preguntas = TEMARIO;
+    let preguntasSeleccionadas = [];
+    let preguntaActual = 0;
+
+    function mostrarLibros() {
+      document.querySelector('.menu').style.display = 'none';
+      document.querySelector('.libros-container').style.display = 'block';
+
+      const contenedor = document.getElementById("libros-botones");
+      contenedor.innerHTML = "";
+
+      const librosUnicos = [...new Set(preguntas.map(p => p.libro))];
+      librosUnicos.forEach(libro => {
+        const btn = document.createElement("button");
+        btn.className = "btn gray";
+        btn.innerText = libro;
+        btn.onclick = () => {
+          preguntasSeleccionadas = preguntas.filter(p => p.libro === libro).sort(() => 0.5 - Math.random());
+          document.querySelector('.libros-container').style.display = 'none';
+          document.querySelector('.quiz-container').style.display = 'block';
+          preguntaActual = 0;
+          mostrarPregunta();
+        };
+        contenedor.appendChild(btn);
+      });
+    }
+
+    function volverAlMenu() {
+      document.querySelector('.libros-container').style.display = 'none';
+      document.querySelector('.menu').style.display = 'block';
+    }
+
+    function startQuiz(modo) {
+      document.querySelector('.menu').style.display = 'none';
+      document.querySelector('.quiz-container').style.display = 'block';
+
+      const porLibro = (libro) => preguntas.filter(p => p.libro === libro);
+
+      const testCorto = [
+        ["Condiciones Generales", 5],
+        ["Normativa Comercial", 3],
+        ["Pases Internacionales", 2],
+        ["Plan de Igualdad de Género", 4],
+        ["Cultura de Seguridad", 3],
+        ["Experiencia de Usuario", 3]
+      ];
+
+      const testCompleto = [
+        ["Condiciones Generales", 15],
+        ["Normativa Comercial", 9],
+        ["Pases Internacionales", 6],
+        ["Plan de Igualdad de Género", 12],
+        ["Cultura de Seguridad", 9],
+        ["Experiencia de Usuario", 9]
+      ];
+
+      if (modo === 'libre') {
+        preguntasSeleccionadas = [...preguntas].sort(() => 0.5 - Math.random());
+      } else {
+        const bloques = modo === 'testCorto' ? testCorto : testCompleto;
+        for (let [libro, cantidad] of bloques) {
+          let subset = porLibro(libro);
+          preguntasSeleccionadas.push(...subset.sort(() => 0.5 - Math.random()).slice(0, cantidad));
+        }
+      }
+
+      preguntaActual = 0;
+      mostrarPregunta();
+    }
+
+    function mostrarPregunta() {
+      const item = preguntasSeleccionadas[preguntaActual];
+      const f = item.formulaciones[Math.floor(Math.random() * item.formulaciones.length)];
+      const opciones = generarOpciones(item, f);
+      document.getElementById("question-text").innerText = f.texto;
+
+      const answersDiv = document.getElementById("answers");
+      answersDiv.innerHTML = "";
+      opciones.forEach(opcion => {
+        const btn = document.createElement("button");
+        btn.innerText = opcion.texto;
+        btn.className = "btn gray";
+        btn.onclick = () => evaluar(btn, opcion.correcta);
+        answersDiv.appendChild(btn);
+      });
+    }
+
+    function generarOpciones(item, f) {
+      let opciones = [];
+      if (f.modo === 'una_correcta') {
+        const correctas = item.respuestas_correctas;
+        const incorrectas = item.respuestas_incorrectas;
+        const correcta = f.tipo === 'positiva'
+          ? correctas[Math.floor(Math.random() * correctas.length)]
+          : incorrectas[Math.floor(Math.random() * incorrectas.length)];
+
+        const distractores = f.tipo === 'positiva'
+          ? incorrectas.filter(r => r !== correcta)
+          : correctas.filter(r => r !== correcta);
+
+        opciones = [
+          { texto: correcta, correcta: true },
+          ...distractores.sort(() => 0.5 - Math.random()).slice(0, 3).map(r => ({ texto: r, correcta: false }))
+        ];
+
+      } else if (f.modo === 'todas_correctas') {
+        const fuente = f.tipo === 'positiva' ? item.respuestas_correctas : item.respuestas_incorrectas;
+        const seleccionadas = fuente.sort(() => 0.5 - Math.random()).slice(0, 3);
+        const textoFinal = f.tipo === 'positiva' ? "Todas las anteriores son correctas." : "Todas las anteriores.";
+
+        opciones = seleccionadas.map(t => ({ texto: t, correcta: false }));
+        opciones.push({ texto: textoFinal, correcta: true });
+      }
+
+      opciones = opciones.sort(() => 0.5 - Math.random());
+
+      const idx = opciones.findIndex(o => o.texto.startsWith("Todas las anteriores"));
+      if (idx !== -1) {
+        const todas = opciones.splice(idx, 1)[0];
+        opciones = opciones.slice(0, 3).concat(todas);
+      }
+
+      return opciones;
+    }
+
+    function evaluar(btn, correcta) {
+      const botones = document.querySelectorAll("#answers .btn");
+      botones.forEach(b => b.disabled = true);
+
+      if (correcta) {
+        btn.className = "btn green";
+      } else {
+        btn.className = "btn red";
+        const correcto = Array.from(botones).find(b => b.onclick.toString().includes("true"));
+        if (correcto) correcto.className = "btn green";
+      }
+
+      document.getElementById("next-btn").style.display = "block";
+    }
+
+    function nextQuestion() {
+      preguntaActual++;
+      if (preguntaActual >= preguntasSeleccionadas.length) {
+        document.getElementById("question-text").innerText = "Fin del entrenamiento.";
+        document.getElementById("answers").innerHTML = "";
+        document.getElementById("next-btn").style.display = "none";
+      } else {
+        document.getElementById("next-btn").style.display = "none";
+        mostrarPregunta();
+      }
+    }
+  </script>
+</body>
+</html>

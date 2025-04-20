@@ -164,3 +164,12 @@ if errores:
     print(f"⚠ Se registraron errores. Revisa el archivo {log_errores}")
 else:
     print("✅ No se encontraron errores.")
+
+# También generar temario-completo.js para su uso en navegador
+js_output_path = "temario-completo.js"
+with open(js_output_path, "w", encoding="utf-8") as f:
+    f.write("const TEMARIO = ")
+    json.dump(temario_consolidado, f, indent=2, ensure_ascii=False)
+    f.write(";")
+
+print(f"🌐 También se ha generado: {js_output_path}")
