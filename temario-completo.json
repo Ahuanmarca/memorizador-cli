@@ -3872,6 +3872,954 @@
     "notas_personales": ""
   },
   {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Introducción",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál es uno de los propósitos principales del II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué objetivo NO forma parte del II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      },
+      {
+        "texto": "¿Qué propósitos persigue el II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Reducir y eliminar manifestaciones de discriminación por razón de sexo",
+      "Promover la igualdad real entre mujeres y hombres",
+      "Eliminar obstáculos y estereotipos sociales que impiden la igualdad",
+      "Avanzar hacia la representación equilibrada con criterios de transversalidad, diálogo, innovación y mejora continua"
+    ],
+    "respuestas_incorrectas": [
+      "Incrementar la presencia de mujeres en los puestos de responsabilidad",
+      "Aplicar medidas de corrección positiva a favor del colectivo femenino",
+      "Establecer cuotas fijas para mujeres en todos los departamentos de la empresa",
+      "Fomentar que las promociones internas prioricen a las trabajadoras mujeres",
+      "Reducir progresivamente el número de hombres en áreas con gran desequilibrio de género"
+    ],
+    "fragmento_original": "El propósito del II Plan de Igualdad de Género del Grupo Renfe es reducir y eliminar todas las posibles manifestaciones de discriminación, directa o indirecta, por razón de sexo y promover la igualdad real entre mujeres y hombres, con la eliminación de los obstáculos y estereotipos sociales que impidan alcanzar estas metas.\nAvanzar hacia la representación equilibrada y garantizar la igualdad efectiva entre mujeres y hombres con criterios de transversalidad, diálogo entre las partes implicadas, innovación y mejora contínua.",
+    "etiquetas": [
+      "propósito",
+      "objetivos",
+      "igualdad",
+      "discriminación",
+      "estereotipos"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Introducción",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de los siguientes es un objetivo del II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué objetivo NO forma parte del II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      },
+      {
+        "texto": "¿Cuáles de los siguientes enunciados forman parte de los objetivos del II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Garantizar la igualdad entre mujeres y hombres y la mejora de la convivencia dentro de la empresa",
+      "Aumentar las medidas efectivas para prevenir y erradicar las conductas discriminatorias de género y de acoso",
+      "Contribuir a la conciliación de la vida laboral y familiar para ambos sexos",
+      "Eliminar modelos de conducta anclados en el pasado que siguen perpetuando desequilibrio"
+    ],
+    "respuestas_incorrectas": [
+      "Incrementar la presencia de mujeres en puestos directivos sin considerar criterios de mérito",
+      "Otorgar beneficios laborales exclusivamente a trabajadoras para reducir brechas históricas",
+      "Promover la contratación preferente de mujeres en todos los niveles de la empresa",
+      "Establecer cuotas fijas de género en cada departamento sin análisis previo",
+      "Crear campañas públicas centradas solo en la imagen externa de igualdad"
+    ],
+    "fragmento_original": "- Garantizar la igualdad entre mujeres y hombres y la mejora de la convivencia dentro de la empresa.\n- Eliminar modelos de conducta anclados en el pasado que siguen perpetuando desequilibrio en las relaciones entre mujeres y hombres.\n- Contribuir a la conciliación de la vida laboral y familiar para ambos sexos.\n- El cumplimiento de la legislación vigente y por tanto, la evitación de conductas sancionables.\n- Aumentar las medidas efectivas para prevenir y erradicar las conductas discriminatorias de género y de acoso.\n- Influir de forma positiva en el ambiente de trabajo, lo que también repercute en la competitividad y productividad de la empresa.",
+    "etiquetas": [
+      "objetivos",
+      "igualdad",
+      "convivencia",
+      "conciliación",
+      "ambiente laboral"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Quiénes participaron en la elaboración del diagnóstico del II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué organización NO participó en la elaboración del diagnóstico del II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      }
+    ],
+    "respuestas_correctas": [
+      "La Dirección del Grupo Renfe",
+      "El grupo de trabajo del Observatorio Técnico de Igualdad del Grupo Renfe",
+      "CCOO y UGT",
+      "Sindicato SEMAF",
+      "Dirección General de RRHH",
+      "Dirección de Relaciones Laborales",
+      "Gerencia de Responsabilidad Social Empresarial"
+    ],
+    "respuestas_incorrectas": [
+      "CGT y USO",
+      "STEF y SINTRA",
+      "La CNMC (Comisión Nacional de los Mercados y la Competencia)",
+      "CNT y COBAS",
+      "CSIF y SEPLA"
+    ],
+    "fragmento_original": "En la elaboración del diagnóstico ha participado la Dirección del Grupo Renfe, las organizaciones sindicales más representativas (CCOO, UGT), y el grupo de trabajo del Observatorio Técnico de Igualdad del Grupo Renfe.",
+    "etiquetas": [
+      "participación",
+      "diagnóstico",
+      "sindicatos",
+      "plan igualdad"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de los siguientes valores forma parte de los principios del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de los siguientes NO es un valor declarado del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      },
+      {
+        "texto": "¿Cuáles de los siguientes valores forman parte de los principios del Grupo Renfe?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Liderazgo",
+      "Excelencia empresarial",
+      "Proximidad al cliente",
+      "Compromiso con la calidad",
+      "Seguridad",
+      "Eficiencia energética",
+      "Innovación"
+    ],
+    "respuestas_incorrectas": [
+      "Neutralidad política",
+      "Igualdad retributiva",
+      "Diversidad religiosa",
+      "Globalización financiera",
+      "Reducción del gasto público"
+    ],
+    "fragmento_original": "Valores del Grupo Renfe\n- Liderazgo\n- Excelencia empresarial\n- Proximidad al cliente\n- Compromiso con la calidad\n- Seguridad\n- Eficiencia energética\n- Innovación",
+    "etiquetas": [
+      "valores",
+      "principios"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes sociedades forma parte del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de las siguientes NO forma parte del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      },
+      {
+        "texto": "¿Cuáles de las siguientes sociedades forman parte del Grupo Renfe?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Renfe Viajeros",
+      "Renfe Mercancías",
+      "Renfe Fabricación y Mantenimiento",
+      "Renfe Alquiler de Material Ferroviario",
+      "Renfe of América"
+    ],
+    "respuestas_incorrectas": [
+      "Renfe Logística y Finanzas",
+      "Renfe Puertos y Conexiones",
+      "Renfe Transitaria",
+      "Renfe Internacional Cargo",
+      "Renfe Servicios Urbanos"
+    ],
+    "fragmento_original": "Empresas del Grupo Renfe\nEntidad Pública Empresarial Renfe-Operadora es la cabecera de un grupo de sociedades que tienen forma jurídica de sociedades anónimas y la consideración de Sociedades Mercantiles Estatales.\n- Renfe Viajeros\n- Renfe Mercancías\n- Renfe Fabricación y Mantenimiento\n- Renfe Alquiler de Material Ferroviario\n- Renfe of América",
+    "etiquetas": [
+      "estructura",
+      "sociedades",
+      "grupo renfe"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de los siguientes compromisos ha asumido el Grupo Renfe en materia de igualdad de género?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de los siguientes NO forma parte del compromiso del Grupo Renfe con la igualdad de género?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      },
+      {
+        "texto": "¿Cuáles de los siguientes compromisos forman parte del enfoque del Grupo Renfe hacia la igualdad de género?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "El desarrollo de políticas que integren la igualdad de trato y oportunidades entre mujeres y hombres",
+      "El impulso de medidas para lograr la igualdad real dentro de la organización",
+      "Entender el II Plan como un instrumento para alcanzar la igualdad real, y no solo evitar discriminaciones"
+    ],
+    "respuestas_incorrectas": [
+      "Establecer cuotas fijas de contratación femenina en todas las categorías profesionales",
+      "Promover exclusivamente el liderazgo femenino en puestos directivos",
+      "Adoptar medidas simbólicas sin implicaciones organizativas",
+      "Favorecer sistemáticamente el ascenso de mujeres frente a hombres",
+      "Limitar la igualdad a aspectos de conciliación familiar exclusivamente"
+    ],
+    "fragmento_original": "Compromiso del Grupo Renfe con la Igualdad de Género:\n- El establecimiento y desarrollo de políticas que integren la igualdad de trato y oportunidades entre mujeres y hombres.\n- El impulso y fomento de medidas para conseguir la igualdad real en el seno de nuestra organización.\n- El II Plan de Igualdad de Género del Grupo Renfe debe ser instrumento efectivo para conseguir la igualdad real, y no solo para evitar las discriminaciones por razón de sexo.",
+    "etiquetas": [
+      "compromiso",
+      "igualdad de género",
+      "políticas"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿En cuáles de los siguientes ámbitos busca implantar el Grupo Renfe políticas que integren la igualdad de trato y oportunidades?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿En cuál de los siguientes ámbitos busca el Grupo Renfe implantar políticas de igualdad de trato y oportunidades entre mujeres y hombres?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de los siguientes ámbitos NO se menciona como objetivo para implantar políticas de igualdad en el Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      }
+    ],
+    "respuestas_correctas": [
+      "Procesos de selección y contratación",
+      "Formación y procesos de promoción y clasificación profesional",
+      "La política retributiva",
+      "La prevención del acoso sexual y por razón de sexo"
+    ],
+    "respuestas_incorrectas": [
+      "Contratación exclusiva de personal técnico masculino",
+      "Privatización de servicios no estratégicos",
+      "Supresión de programas de sensibilización social",
+      "Gestión de infraestructuras ferroviarias ajenas",
+      "Revisión anual de tarifas comerciales",
+      "Fomento de competencias digitales sin enfoque de igualdad"
+    ],
+    "fragmento_original": "Las políticas que integren la igualdad de trato y oportunidades entre mujeres y hombres se quieren implantar en todos los ámbitos en que se desarrolla la actividad. Por ejemplo:\n- Procesos de selección y contratación\n- Comunicación\n- Sensibilización\n- Responsabilidad social corporativa\n- Formación y procesos de promoción y clasificación profesional\n- Conciliación y ejercicio corresponsable de los derechos de la vida personal, familiar y laboral\n- La política retributiva\n- La prevención del acoso sexual y por razón de sexo",
+    "etiquetas": [
+      "ámbitos",
+      "igualdad",
+      "políticas",
+      "aplicación"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿A cuál de los siguientes planes está vinculado el II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Plan Estratégico de Renfe",
+      "Plan Estratégico 2019-2023-2028",
+      "Responsabilidad Social Empresarial"
+    ],
+    "respuestas_incorrectas": [
+      "Plan Nacional de Infraestructuras Ferroviarias",
+      "Plan de Formación de Maquinistas 2020-2025",
+      "Plan Europeo de Conectividad Digital",
+      "Estrategia de Movilidad Sostenible de ADIF",
+      "Programa Horizonte 2030 del MITMA"
+    ],
+    "fragmento_original": "Planes con los que se vincula el II Plan de Igualdad de Género del Grupo Renfe:\n- Plan Estratégico de Renfe / Plan Estratégico 2019-2023-2028\n- Responsabilidad Social Empresarial",
+    "etiquetas": [
+      "vinculación",
+      "planes estratégicos",
+      "responsabilidad social"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Qué busca fomentar la política de Responsabilidad Social Empresarial (RSE) en el Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "La construcción de relaciones a largo plazo basadas en la confianza y la transparencia",
+      "El impulso de una cultura de negocio responsable en todas las empresas del Grupo Renfe"
+    ],
+    "respuestas_incorrectas": [
+      "La maximización del beneficio económico por encima de otros objetivos",
+      "La eliminación de controles internos para agilizar decisiones",
+      "La expansión comercial sin restricciones sociales ni éticas",
+      "La centralización total de decisiones en la empresa matriz",
+      "La exclusión de criterios sociales en la gestión empresarial"
+    ],
+    "fragmento_original": "La política RSE define e impulsa comportamientos para crear relaciones a largo plazo basadas en la confianza y la transparencia, en el marco de una cultura de negocio responsable en todas las empresas que forman parte del Grupo Renfe",
+    "etiquetas": [
+      "RSE",
+      "responsabilidad social",
+      "valores",
+      "cultura empresarial"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de los siguientes Objetivos de Desarrollo Sostenible ha sido integrado por el Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué Objetivo de Desarrollo Sostenible ha sido considerado en el II Plan de Igualdad de Género del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuáles de los siguientes Objetivos de Desarrollo Sostenible forman parte de los integrados por el Grupo Renfe?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Fin de la pobreza",
+      "Hambre cero",
+      "Salud y bienestar",
+      "Educación de calidad",
+      "Igualdad de género",
+      "Agua limpia y saneamiento",
+      "Energía asequible y no contaminante",
+      "Trabajo decente y crecimiento económico",
+      "Industria, innovación e infraestructura",
+      "Reducción de las desigualdades",
+      "Ciudades y comunidades sostenibles",
+      "Producción y consumo responsables",
+      "Acción por el clima",
+      "Vida submarina",
+      "Vida de ecosistemas terrestres",
+      "Paz, justicia e instituciones sólidas",
+      "Alianzas para lograr los objetivos"
+    ],
+    "respuestas_incorrectas": [
+      "Transición hacia una economía completamente centralizada",
+      "Desarrollo de armamento autónomo",
+      "Promoción del turismo interplanetario",
+      "Sustitución de la fuerza laboral por inteligencia artificial",
+      "Establecimiento de una moneda digital universal",
+      "Neutralidad ideológica en medios de comunicación",
+      "Reducción de la jornada laboral a 20 horas semanales",
+      "Creación de zonas de exclusión tecnológica"
+    ],
+    "fragmento_original": "El Grupo Renfe ha integrado los 17 ODS de la ONU para esta década:\n1) Fin de la pobreza\n2) Hambre cero\n3) Salud y bienestar\n4) Educación de calidad\n5) Igualdad de género\n6) Agua limpia y saneamiento\n7) Energía asequible y no contaminante\n8) Trabajo decente y crecimiento económico\n9) Industria, innovación e infraestructura\n10) Reducción de las desigualdades\n11) Ciudades y comunidades sostenibles\n12) Producción y consumo responsables\n13) Acción por el clima\n14) Vida submarina\n15) Vida de ecosistemas terrestres\n16) Paz, justicia e instituciones sólidas\n17) Alianzas para lograr los objetivos",
+    "etiquetas": [
+      "ODS",
+      "ONU",
+      "sostenibilidad",
+      "igualdad",
+      "agenda2030"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál fue uno de los objetivos de la consulta abierta realizada por la Comisión de Igualdad de Oportunidades?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué finalidad tuvo la consulta abierta a la plantilla promovida por la Comisión de Igualdad de Oportunidades?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuáles de los siguientes fueron objetivos de la consulta abierta a la plantilla sobre igualdad de oportunidades?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Valorar a la empresa respecto de la igualdad de oportunidades",
+      "Conocer el impacto del I Plan de Igualdad en la plantilla",
+      "Recoger propuestas de acciones necesarias para lograr la igualdad"
+    ],
+    "respuestas_incorrectas": [
+      "Determinar la viabilidad de privatizar parte de la plantilla",
+      "Seleccionar embajadores de igualdad para cada centro",
+      "Evaluar la eficiencia energética de las instalaciones",
+      "Reorganizar los equipos de trabajo según edad",
+      "Determinar el grado de digitalización por departamentos"
+    ],
+    "fragmento_original": "Se realizó un análisis detallado de la igualdad de oportunidades entre hombres y mujeres, con datos de 31-12-2017. Objetivo: Identificar y estimar, con indicadores, desigualdades y desventajas existentes para igualdad efectiva. Debido a datos obtenidos, la Comisión de Igualdad de Oportunidades decidió hacer una consulta abierta a toda la plantilla, para: valorar a la empresa respecto de la igualdad de oportunidades, conocer el impacto del I Plan de Igualdad en la plantilla, y recoger acciones que se consideraban necesarias para lograr igualdad.",
+    "etiquetas": [
+      "diagnóstico",
+      "consulta",
+      "impacto",
+      "participación",
+      "I Plan de Igualdad"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Qué información se incluyó en el informe entregado en noviembre de 2018 sobre el II Plan de Igualdad de Género?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de los siguientes contenidos formó parte del informe de diagnóstico presentado en noviembre de 2018?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué aspectos se abordaron en el informe entregado en noviembre de 2018 sobre la situación de igualdad en el Grupo Renfe?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Diagnóstico de la situación",
+      "Comparativa con el diagnóstico del I Plan de Igualdad de Género",
+      "Resultados de la encuesta a la plantilla",
+      "Propuesta de líneas de actuación básicas",
+      "Datos actualizados a 31-12-2020",
+      "Conclusiones comunes aplicables a todo el Grupo Renfe"
+    ],
+    "respuestas_incorrectas": [
+      "Informe económico con previsiones a cinco años",
+      "Listado de proveedores certificados en igualdad",
+      "Evaluación del desempeño individual por género",
+      "Propuesta de desvinculación de sociedades no rentables",
+      "Instrucciones para la contratación externa del diagnóstico",
+      "Estudio de mercado sobre imagen de marca"
+    ],
+    "fragmento_original": "En noviembre de 2018 se entregó informe sobre: Diagnóstico de la situación, Comparativa del mismo con el que se realizó para el I Plan de Igualdad de Género, Resultados de la encuesta, Propuesta de líneas de actuación básicas. Los datos del informe diagnóstico han sido desagregados y actualizados a 31-12-2020. Las conclusiones fueron similares en toras las sociedades, y por ello las acciones definidas son comunes a todo el grupo y sus sociedades.",
+    "etiquetas": [
+      "informe",
+      "diagnóstico",
+      "comparativa",
+      "encuesta",
+      "líneas de actuación",
+      "grupo"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Qué herramientas metodológicas se utilizaron para el diagnóstico de igualdad de género en el Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué método se empleó para identificar desigualdades de género en el diagnóstico del II Plan de Igualdad del Grupo Renfe?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuáles de las siguientes medidas fueron empleadas como herramientas metodológicas para el diagnóstico del II Plan de Igualdad?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Informe sobre el diagnóstico de la situación con datos del 31-12-2017",
+      "Actualización de los datos del diagnóstico a diciembre de 2020",
+      "Informe de auditoría retributiva con datos actualizados a diciembre de 2021"
+    ],
+    "respuestas_incorrectas": [
+      "Evaluación de clima laboral mediante focus groups trimestrales",
+      "Estudio longitudinal sobre la imagen de marca en medios digitales",
+      "Informe financiero sobre impacto presupuestario de medidas de igualdad",
+      "Benchmarking con empresas del sector energético",
+      "Informe jurídico sobre la paridad en consejos de administración",
+      "Análisis de consumo interno de servicios de conciliación"
+    ],
+    "fragmento_original": "Metodología y herramientas utilizadas: Informe sobre el diagnóstico de la situación en la empresa, con datos del 31-12-2017 para identificar, a través de indicadores cuantitativos y cualitativos, las desigualdades y desventajas existentes o que pudieran existir en la empresa para conseguir la igualdad efectiva entre mujeres y hombres. Actualización de datos del informe diagnóstico a diciembre de 2020. Elaboración de un informe de auditoría retributiva independientes y propios con los datos de la sociedad empresa, actualizados a diciembre de 2021 en cumplimiento del artículo 2.6 del RD 901/2020.",
+    "etiquetas": [
+      "metodología",
+      "auditoría retributiva",
+      "diagnóstico",
+      "herramientas"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Qué reconocimiento ha obtenido Renfe Operadora y sus sociedades en materia de igualdad de género?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de los siguientes reconocimientos ha recibido el Grupo Renfe por su compromiso con la igualdad de oportunidades?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Entidad colaboradora en igualdad de oportunidades entre mujeres y hombres (Programa Óptima)"
+    ],
+    "respuestas_incorrectas": [
+      "Certificación ISO 45001 en paridad de género",
+      "Reconocimiento Iberia Equidad 2030",
+      "Sello Compromiso por la Diversidad Laboral Femenina",
+      "Distintivo Estatal de Igualdad Laboral y Conciliación Familiar",
+      "Premio Horizonte a la Inclusión y el Liderazgo de la Mujer"
+    ],
+    "fragmento_original": "Renfe Operadora y todas sus sociedades han obtenido el siguiente reconocimiento / certificado de igualdad: Entidad colaboradora en igualdad oportunidades entre mujeres y hombres (Programa Óptima)",
+    "etiquetas": [
+      "certificaciones",
+      "reconocimientos",
+      "igualdad",
+      "Programa Óptima"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál es la misión de Renfe Operadora según se recoge en el II Plan de Igualdad de Género?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué enunciado representa correctamente la misión de Renfe Operadora?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Ofrecer servicios de transporte de calidad ajustados a la confianza y nuevas necesidades de nuestros clientes nacionales e internacionales, cumpliendo con nuestro compromiso con los empleados y con la sociedad española"
+    ],
+    "respuestas_incorrectas": [
+      "Conseguir el liderazgo del mercado ferroviario mediante la optimización de costes y la reducción de plantilla",
+      "Maximizar beneficios anuales a través de una política de expansión internacional y externalización de servicios",
+      "Desarrollar soluciones logísticas centradas exclusivamente en el transporte de mercancías de gran volumen",
+      "Consolidar su imagen como operador rentable a través de la automatización total de los servicios",
+      "Garantizar únicamente la rentabilidad de la empresa sin compromisos adicionales con la sociedad"
+    ],
+    "fragmento_original": "Misión: Ofrecer servicios de transporte de calidad ajustados a la confianza y nuevas necesidades de nuestros clientes nacionales e internacionales, cumpliendo con nuestro compromiso con los empleados y con la sociedad española.",
+    "etiquetas": [
+      "misión",
+      "Renfe Operadora",
+      "objeto social"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál es el objeto social de Renfe Mercancías?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué actividad describe correctamente el objeto social de Renfe Mercancías?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "La prestación de servicios de transporte de mercancías por ferrocarril como operador logístico ferroviario, capaz de gestionar o participar en cualquier cadena de logística integral, tanto nacional como internacional",
+      "La prestación de otros servicios o actividades complementarias o vinculadas al transporte ferroviario de mercancías"
+    ],
+    "respuestas_incorrectas": [
+      "La gestión de estaciones de pasajeros en el ámbito urbano",
+      "La operación de trenes turísticos para viajeros internacionales",
+      "La promoción de servicios de alta velocidad para pasajeros",
+      "La explotación de líneas ferroviarias de cercanías en entornos metropolitanos",
+      "La planificación de campañas de marketing para fomentar el turismo ferroviario"
+    ],
+    "fragmento_original": "La prestación de servicios de transporte de mercancías por ferrocarril como operador logístico ferroviario, capaz de gestionar o participar en cualquier cadena de logística integral, tanto nacional como internacional, así como la prestación de otros servicios o actividades complementarias o vinculadas al transporte ferroviario de mercancías.",
+    "etiquetas": [
+      "Renfe Mercancías",
+      "objeto social"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes actividades forma parte del objeto social de Renfe Fabricación y Mantenimiento?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué actividad describe correctamente el objeto social de Renfe Fabricación y Mantenimiento?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "La prestación de servicios de fabricación, mantenimiento y transformación de material rodante",
+      "La reparación de componentes ferroviarios",
+      "Servicios de consultoría de ingeniería y gestión de instalaciones",
+      "El diseño y entrega de talleres",
+      "La prestación de otros servicios o actividades complementarias o vinculadas a los mismos"
+    ],
+    "respuestas_incorrectas": [
+      "La operación comercial de trenes de pasajeros de alta velocidad",
+      "La gestión de billetes y reservas internacionales",
+      "El diseño de campañas publicitarias orientadas a turismo ferroviario",
+      "La planificación de rutas de transporte de mercancías",
+      "La explotación de cafeterías y servicios de restauración a bordo"
+    ],
+    "fragmento_original": "La prestación de servicios de fabricación, mantenimiento y transformación de material rodante, la reparación de componentes ferroviarios, servicios de consultoría de ingeniería y gestión de instalaciones, diseño y entrega de talleres, asó como la prestación de otros servicios o actividades complementarias o vinculadas a los mismos.",
+    "etiquetas": [
+      "Renfe Fabricación y Mantenimiento",
+      "objeto social"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes actividades forma parte del objeto social de Renfe Alquiler de Material Ferroviario?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué función describe correctamente el objeto social de Renfe Alquiler de Material Ferroviario?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "La venta, alquiler o puesta a disposición de material rodante del que es titular",
+      "La puesta a disposición de sus instalaciones",
+      "La gestión y explotación de material rodante de terceros"
+    ],
+    "respuestas_incorrectas": [
+      "La formación de maquinistas para servicios de alta velocidad",
+      "La comercialización directa de billetes a través de canales digitales",
+      "La fabricación de locomotoras de mercancías para uso interno",
+      "La promoción internacional del turismo ferroviario",
+      "La planificación de horarios y frecuencias de servicios de pasajeros"
+    ],
+    "fragmento_original": "La prestación de los servicios ferroviarios de venta, alquiler y/o cualquiera otra forma de puesta a disposición del material rodante del que es titular, así como de sus instalaciones, de la gestión y explotación de material rodante de terceros.",
+    "etiquetas": [
+      "Renfe Alquiler de Material Ferroviario",
+      "objeto social"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Compromiso con la igualdad de género del Grupo Renfe",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones describe correctamente la naturaleza jurídica de Renfe Operadora?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de las siguientes características corresponde a Renfe Operadora como entidad?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones NO corresponde a la constitución y funcionamiento de Renfe Operadora?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      },
+      {
+        "texto": "¿Qué afirmaciones describen correctamente la naturaleza jurídica y constitución de Renfe Operadora?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Es una entidad pública empresarial con personalidad jurídica propia",
+      "Está adscrita al Ministerio de Transportes, Movilidad y Agenda Urbana",
+      "Actúa con autonomía de gestión dentro de los límites legales establecidos",
+      "Se rige por la Ley del Sector Ferroviario, su Estatuto y la legislación aplicable",
+      "Es la cabecera de un grupo de sociedades mercantiles estatales 100% propiedad de Renfe"
+    ],
+    "respuestas_incorrectas": [
+      "Es una sociedad anónima con participación de capital privado",
+      "Depende directamente del Ministerio de Hacienda y Función Pública",
+      "Carece de autonomía de gestión y está sujeta a la intervención del Estado en sus operaciones diarias",
+      "Forma parte del Grupo Adif como sociedad participada",
+      "Opera bajo un régimen jurídico idéntico al de las empresas privadas del sector"
+    ],
+    "fragmento_original": "Entidad pública empresarial adscrita al Ministerio de Transportes, Movilidad y Agenda Urbana, con personalidad jurídica propia y diferenciada de la del Estado. Actúa con autonomía de gestión, dentro de los límites establecidos por la Ley del Sector Ferroviario, su Estatuto y la legislación que le sea de aplicación. Quedó constituida como cabecera de un grupo de sociedades 100% de Renfe que tienen la forma jurídica de sociedades anónimas y la consideración de Sociedades Mercantiles Estatales.",
+    "etiquetas": [
+      "Renfe Operadora",
+      "naturaleza jurídica",
+      "estructura"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Qué afirmación es correcta con respecto a la evolución de la plantilla de Renfe Operadora entre 2017 y 2020?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones describe adecuadamente los cambios en la plantilla de Renfe Operadora entre 2017 y 2020?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué afirmación NO es cierta respecto a los datos de plantilla de Renfe Operadora en 2017 y 2020?",
+        "modo": "una_correcta",
+        "tipo": "negativa"
+      },
+      {
+        "texto": "¿Cuáles de las siguientes afirmaciones reflejan correctamente la evolución de la plantilla de Renfe Operadora entre 2017 y 2020?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "Entre 2017 y 2020, la plantilla de Renfe Operadora aumentó en más de 300 personas",
+      "En ambos años, el porcentaje de hombres superó el 65%",
+      "En 2020, las mujeres representaban un 31,13% de la plantilla",
+      "En 2017, el número total de personas empleadas era de 725"
+    ],
+    "respuestas_incorrectas": [
+      "En 2020, las mujeres representaban el 44% de la plantilla",
+      "La plantilla de Renfe Operadora se mantuvo estable entre 2017 y 2020",
+      "En 2017, había más mujeres que hombres en la plantilla",
+      "En 2020, el número total de personas empleadas fue menor que en 2017",
+      "El porcentaje de mujeres superó el 40% tanto en 2017 como en 2020"
+    ],
+    "fragmento_original": "Renfe Operadora\n31 de diciembre de 2017 / Diciembre de 2020\n\n2017:\nHombres: 482 (66,48%)\nMujeres: 243 (33,52%)\nTotal: 725\n\n2020:\nHombres: 728 (68,87%)\nMujeres: 329 (31,13%)\nTotal: 1.057",
+    "etiquetas": [
+      "datos plantilla",
+      "evolución",
+      "Renfe Operadora",
+      "diagnóstico"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
     "libro": "Normativa Comercial",
     "capitulo": "Capítulo Mock 1",
     "formulaciones": [
@@ -5926,41 +6874,6 @@
     "etiquetas": [
       "mock",
       "pregunta_19"
-    ],
-    "aciertos_consecutivos": 0,
-    "fallos_totales": 0,
-    "veces_vista": 0,
-    "ultima_vez_vista": null,
-    "ultima_vez_acertada": null,
-    "descartada": false,
-    "proxima_revision": null,
-    "notas_personales": ""
-  },
-  {
-    "libro": "Plan de Igualdad de Género",
-    "capitulo": "Capítulo Mock 4",
-    "formulaciones": [
-      {
-        "texto": "¿Puedes responder esta mock-pregunta 20?",
-        "modo": "una_correcta",
-        "tipo": "positiva"
-      }
-    ],
-    "respuestas_correctas": [
-      "respuesta correcta 20-1",
-      "respuesta correcta 20-2",
-      "respuesta correcta 20-3"
-    ],
-    "respuestas_incorrectas": [
-      "respuesta incorrecta 20-1",
-      "respuesta incorrecta 20-2",
-      "respuesta incorrecta 20-3",
-      "respuesta incorrecta 20-4"
-    ],
-    "fragmento_original": "Este es el fragmento original de la pregunta mock número 20.",
-    "etiquetas": [
-      "mock",
-      "pregunta_20"
     ],
     "aciertos_consecutivos": 0,
     "fallos_totales": 0,
