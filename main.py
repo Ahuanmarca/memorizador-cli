@@ -13,27 +13,6 @@ RED = "\033[91m"  # Rojo brillante
 TODAS_TEXTO = "Todas las anteriores son correctas."
 
 # Función para priorizar preguntas
-
-# def priorizar_preguntas(lista, n=None):
-#     def puntaje(p):
-#         score = 0
-#         if p.get("veces_vista", 0) == 0:
-#             score -= 50  # prioridad máxima para no vistas
-#         score += p.get("fallos_totales", 0) * 10
-#         score -= p.get("aciertos_consecutivos", 0) * 5
-#         if p.get("ultima_vez_vista"):
-#             try:
-#                 vista = datetime.datetime.fromisoformat(p["ultima_vez_vista"])
-#                 dias = (datetime.datetime.now() - vista).days
-#                 score += dias  # más días, más prioridad
-#             except Exception:
-#                 score += 0
-#         return score
-
-#     ordenadas = sorted(lista, key=puntaje, reverse=True)
-#     return ordenadas[:n] if n else ordenadas
-
-
 def priorizar_preguntas(lista, n=None):
     no_vistas = [p for p in lista if p.get("veces_vista", 0) == 0]
     vistas = [p for p in lista if p.get("veces_vista", 0) > 0]
