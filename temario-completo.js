@@ -36,11 +36,11 @@ const TEMARIO = [
     "etiquetas": [
       "objeto social"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:58:24.768262",
-    "ultima_vez_acertada": "2025-04-20T00:58:24.768262",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -99,11 +99,11 @@ const TEMARIO = [
       "calidad",
       "innovación"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:21:20.970305",
-    "ultima_vez_acertada": "2025-04-20T01:21:20.970305",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -154,11 +154,11 @@ const TEMARIO = [
       "seguro",
       "responsabilidad civil"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:21:32.967369",
-    "ultima_vez_acertada": "2025-04-20T01:21:32.967369",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -202,11 +202,11 @@ const TEMARIO = [
       "tipos de servicio",
       "renfe"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:21:46.451408",
-    "ultima_vez_acertada": "2025-04-20T01:21:46.451408",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -251,9 +251,9 @@ const TEMARIO = [
       "regulación"
     ],
     "aciertos_consecutivos": 0,
-    "fallos_totales": 1,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:22:07.226724",
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
     "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
@@ -299,11 +299,11 @@ const TEMARIO = [
       "media distancia",
       "cercanías"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:58:39.766932",
-    "ultima_vez_acertada": "2025-04-20T00:58:39.766932",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -363,11 +363,11 @@ const TEMARIO = [
       "plaza asignada",
       "datos obligatorios"
     ],
-    "aciertos_consecutivos": 2,
-    "fallos_totales": 1,
-    "veces_vista": 3,
-    "ultima_vez_vista": "2025-04-20T01:12:45.159320",
-    "ultima_vez_acertada": "2025-04-20T01:12:45.159320",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -411,11 +411,11 @@ const TEMARIO = [
       "billetes personalizados",
       "sin asignación de plaza"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:22:41.845879",
-    "ultima_vez_acertada": "2025-04-20T01:22:41.845879",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -462,11 +462,11 @@ const TEMARIO = [
       "factores",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:59:09.556303",
-    "ultima_vez_acertada": "2025-04-20T00:59:09.556303",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -513,11 +513,11 @@ const TEMARIO = [
       "promociones",
       "complementos"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:59:29.114876",
-    "ultima_vez_acertada": "2025-04-20T00:59:29.114876",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -564,11 +564,11 @@ const TEMARIO = [
       "media distancia",
       "cercanías"
     ],
-    "aciertos_consecutivos": 2,
-    "fallos_totales": 1,
-    "veces_vista": 3,
-    "ultima_vez_vista": "2025-04-20T01:13:02.827967",
-    "ultima_vez_acertada": "2025-04-20T01:13:02.827967",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -615,11 +615,11 @@ const TEMARIO = [
       "OSP",
       "condiciones comerciales"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:23:02.109606",
-    "ultima_vez_acertada": "2025-04-20T01:23:02.109606",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -664,11 +664,11 @@ const TEMARIO = [
       "acumulabilidad",
       "servicios comerciales"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:59:49.137373",
-    "ultima_vez_acertada": "2025-04-20T00:59:49.137373",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -705,11 +705,11 @@ const TEMARIO = [
       "tipología",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:59:55.590181",
-    "ultima_vez_acertada": "2025-04-20T00:59:55.590181",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -746,11 +746,11 @@ const TEMARIO = [
       "viaje único",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-19T23:58:04.109721",
-    "ultima_vez_acertada": "2025-04-19T23:58:04.109721",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -787,11 +787,11 @@ const TEMARIO = [
       "viaje grupal",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:00:04.980270",
-    "ultima_vez_acertada": "2025-04-20T01:00:04.980270",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -828,11 +828,11 @@ const TEMARIO = [
       "transporte multimodal",
       "renfe"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:23:16.163435",
-    "ultima_vez_acertada": "2025-04-20T01:23:16.163435",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -869,11 +869,11 @@ const TEMARIO = [
       "viajes múltiples",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:00:25.893570",
-    "ultima_vez_acertada": "2025-04-20T01:00:25.893570",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -918,11 +918,11 @@ const TEMARIO = [
       "intermediarios",
       "canales de venta"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:23:35.723202",
-    "ultima_vez_acertada": "2025-04-20T01:23:35.723202",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -967,11 +967,11 @@ const TEMARIO = [
       "billete nominativo",
       "duración"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:24:06.892337",
-    "ultima_vez_acertada": "2025-04-20T01:24:06.892337",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1017,11 +1017,11 @@ const TEMARIO = [
       "formalización",
       "canales de venta"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T01:24:35.421767",
-    "ultima_vez_acertada": "2025-04-20T01:24:35.421767",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1058,11 +1058,11 @@ const TEMARIO = [
       "requisitos",
       "viajar"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:00:37.593111",
-    "ultima_vez_acertada": "2025-04-20T01:00:37.593111",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1099,11 +1099,11 @@ const TEMARIO = [
       "definición",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:00:41.868042",
-    "ultima_vez_acertada": "2025-04-20T01:00:41.868042",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1140,11 +1140,11 @@ const TEMARIO = [
       "definición",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:00:48.422915",
-    "ultima_vez_acertada": "2025-04-20T01:00:48.422915",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1181,11 +1181,11 @@ const TEMARIO = [
       "título de transporte",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:00:57.721952",
-    "ultima_vez_acertada": "2025-04-20T01:00:57.721952",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1233,11 +1233,11 @@ const TEMARIO = [
       "causas de invalidez",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:16:56.304649",
-    "ultima_vez_acertada": "2025-04-20T00:16:56.304649",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1360,11 +1360,11 @@ const TEMARIO = [
       "títulos excluidos",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:01:03.722133",
-    "ultima_vez_acertada": "2025-04-20T01:01:03.722133",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1411,11 +1411,11 @@ const TEMARIO = [
       "condiciones",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:01:22.655880",
-    "ultima_vez_acertada": "2025-04-20T01:01:22.655880",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1605,11 +1605,11 @@ const TEMARIO = [
       "tarjeta sin contacto",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:02:04.335244",
-    "ultima_vez_acertada": "2025-04-20T01:02:04.335244",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1648,11 +1648,11 @@ const TEMARIO = [
       "requisitos",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:18:00.171905",
-    "ultima_vez_acertada": "2025-04-20T00:18:00.171905",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1840,11 +1840,11 @@ const TEMARIO = [
       "servicio de asistencia",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:02:17.969267",
-    "ultima_vez_acertada": "2025-04-20T01:02:17.969267",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -1976,11 +1976,11 @@ const TEMARIO = [
       "renfe",
       "documentación"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:02:26.579110",
-    "ultima_vez_acertada": "2025-04-20T01:02:26.579110",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2021,11 +2021,11 @@ const TEMARIO = [
       "seguridad",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:02:36.419618",
-    "ultima_vez_acertada": "2025-04-20T01:02:36.419618",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2158,11 +2158,11 @@ const TEMARIO = [
       "responsabilidad",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:19:10.160211",
-    "ultima_vez_acertada": "2025-04-20T00:19:10.160211",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2203,11 +2203,11 @@ const TEMARIO = [
       "condiciones comerciales",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:02:47.278467",
-    "ultima_vez_acertada": "2025-04-20T01:02:47.278467",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2254,11 +2254,11 @@ const TEMARIO = [
       "transporte ferroviario",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:02:59.308014",
-    "ultima_vez_acertada": "2025-04-20T01:02:59.308014",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2341,11 +2341,11 @@ const TEMARIO = [
       "documentación",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
-    "fallos_totales": 1,
-    "veces_vista": 3,
-    "ultima_vez_vista": "2025-04-20T01:13:11.168086",
-    "ultima_vez_acertada": "2025-04-20T01:13:11.168086",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2503,11 +2503,11 @@ const TEMARIO = [
       "renfe",
       "trayecto"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:03:13.317526",
-    "ultima_vez_acertada": "2025-04-20T01:03:13.317526",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2609,11 +2609,11 @@ const TEMARIO = [
       "normas de uso",
       "seguridad"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:14:07.761137",
-    "ultima_vez_acertada": "2025-04-20T01:14:07.761137",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2653,11 +2653,11 @@ const TEMARIO = [
       "renfe",
       "documentación"
     ],
-    "aciertos_consecutivos": 3,
-    "fallos_totales": 1,
-    "veces_vista": 4,
-    "ultima_vez_vista": "2025-04-20T01:13:31.865839",
-    "ultima_vez_acertada": "2025-04-20T01:13:31.865839",
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2693,11 +2693,11 @@ const TEMARIO = [
       "obligaciones del viajero",
       "renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:14:20.225012",
-    "ultima_vez_acertada": "2025-04-20T01:14:20.225012",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2785,11 +2785,11 @@ const TEMARIO = [
       "obligaciones",
       "sanciones"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:14:32.284482",
-    "ultima_vez_acertada": "2025-04-20T01:14:32.284482",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2917,11 +2917,11 @@ const TEMARIO = [
       "título inválido",
       "sanciones"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:14:47.105765",
-    "ultima_vez_acertada": "2025-04-20T01:14:47.105765",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -2962,11 +2962,11 @@ const TEMARIO = [
       "reclamación",
       "sin penalización"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:23:36.972441",
-    "ultima_vez_acertada": "2025-04-20T00:23:36.972441",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -3317,11 +3317,11 @@ const TEMARIO = [
       "indemnización",
       "derechos"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:22:11.594764",
-    "ultima_vez_acertada": "2025-04-20T00:22:11.594764",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -3440,11 +3440,11 @@ const TEMARIO = [
       "trayecto",
       "responsabilidad"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T01:14:57.228994",
-    "ultima_vez_acertada": "2025-04-20T01:14:57.228994",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -3489,11 +3489,11 @@ const TEMARIO = [
       "billete",
       "Renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:21:28.875558",
-    "ultima_vez_acertada": "2025-04-20T00:21:28.875558",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -3586,11 +3586,11 @@ const TEMARIO = [
       "compensación",
       "Renfe"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-19T23:59:11.594115",
-    "ultima_vez_acertada": "2025-04-19T23:59:11.594115",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -3670,11 +3670,11 @@ const TEMARIO = [
       "responsabilidad",
       "Renfe"
     ],
-    "aciertos_consecutivos": 2,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 2,
-    "ultima_vez_vista": "2025-04-20T00:18:31.491544",
-    "ultima_vez_acertada": "2025-04-20T00:18:31.491544",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -3791,11 +3791,11 @@ const TEMARIO = [
       "versiones",
       "entrada_en_vigor"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-19T23:59:26.608905",
-    "ultima_vez_acertada": "2025-04-19T23:59:26.608905",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
@@ -3862,17 +3862,17 @@ const TEMARIO = [
       "renfe",
       "direccion"
     ],
-    "aciertos_consecutivos": 1,
+    "aciertos_consecutivos": 0,
     "fallos_totales": 0,
-    "veces_vista": 1,
-    "ultima_vez_vista": "2025-04-20T00:19:58.668121",
-    "ultima_vez_acertada": "2025-04-20T00:19:58.668121",
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
     "descartada": false,
     "proxima_revision": null,
     "notas_personales": ""
   },
   {
-    "libro": "Plan de Igualdad de Género",
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
     "capitulo": "Introducción",
     "formulaciones": [
       {
@@ -3972,7 +3972,7 @@ const TEMARIO = [
     "notas_personales": ""
   },
   {
-    "libro": "II Plan de Igualdad de Género",
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
     "capitulo": "Diagnóstico",
     "formulaciones": [
       {
@@ -7070,6 +7070,41 @@ const TEMARIO = [
     "etiquetas": [
       "mock",
       "pregunta_19"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "Plan de Igualdad de Género",
+    "capitulo": "Capítulo Mock 4",
+    "formulaciones": [
+      {
+        "texto": "¿Puedes responder esta mock-pregunta 20?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "respuesta correcta 20-1",
+      "respuesta correcta 20-2",
+      "respuesta correcta 20-3"
+    ],
+    "respuestas_incorrectas": [
+      "respuesta incorrecta 20-1",
+      "respuesta incorrecta 20-2",
+      "respuesta incorrecta 20-3",
+      "respuesta incorrecta 20-4"
+    ],
+    "fragmento_original": "Este es el fragmento original de la pregunta mock número 20.",
+    "etiquetas": [
+      "mock",
+      "pregunta_20"
     ],
     "aciertos_consecutivos": 0,
     "fallos_totales": 0,
