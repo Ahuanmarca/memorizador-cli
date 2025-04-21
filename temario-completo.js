@@ -4820,6 +4820,202 @@ const TEMARIO = [
     "notas_personales": ""
   },
   {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones es correcta en relación a la evolución de la plantilla de Renfe Viajeros entre 2017 y 2020?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué afirmación sobre la evolución de la plantilla de Renfe Viajeros entre 2017 y 2020 es acertada?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones refleja correctamente la evolución de la plantilla de Renfe Viajeros entre 2017 y 2020?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "El porcentaje de mujeres en Renfe Viajeros aumentó de 12,90% a 16,14% entre 2017 y 2020",
+      "El número de mujeres en Renfe Viajeros aumentó de 1,231 a 1,510 entre 2017 y 2020",
+      "La proporción de hombres en la plantilla de Renfe Viajeros se redujo de 87,10% a 83,86%  entre 2017 y 2020",
+      "El número total de personas trabajadoras en Renfe Viajeros se redujo de 9,545 a 9,354 entre 2017 y 2020"
+    ],
+    "respuestas_incorrectas": [
+      "La presencia femenina en Renfe Viajeros se mantuvo estable entre 2017 y 2020",
+      "El porcentaje de mujeres en Renfe Viajeros fue del 20% en ambos años",
+      "La plantilla total de Renfe Viajeros creció de 9,354 a 9,545 entre 2017 y 2020",
+      "La proporción de hombres se incrementó del 83% al 88%",
+      "El número de mujeres disminuyó en más de 300 personas entre 2017 y 2020"
+    ],
+    "fragmento_original": "Renfe Viajeros\n31 de diciembre de 2017\nDiciembre de 2020\n\nPersonas\n%\n\nPersonas\n%\nHombres\n8,314\n87,10\nHombres\n7,844\n83,86\nMujeres\n1,231\n12,90\nMujeres\n1,510\n16,14\nTotal\n9,545\n\nTotal\n9,354",
+    "etiquetas": [
+      "renfe viajeros",
+      "diagnóstico",
+      "datos plantilla",
+      "igualdad de género"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones refleja correctamente la evolución de la plantilla de Renfe Mercancías entre 2017 y 2020?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué cambio en la plantilla de Renfe Mercancías entre 2017 y 2020 es correcto?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuáles de las siguientes afirmaciones son correctas respecto a la plantilla de Renfe Mercancías entre 2017 y 2020?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "El porcentaje de mujeres en Renfe Mercancías aumentó de 6,13% a 10,58% entre 2017 y 2020",
+      "El número de mujeres en Renfe Mercancías aumentó de 66 a 101 entre 2017 y 2020",
+      "La proporción de hombres en la plantilla de Renfe Mercancías se redujo de 93,87% a 89,42% entre 2017 y 2020",
+      "El número total de personas trabajadoras en Renfe Mercancías se redujo de 1.077 a 955 entre 2017 y 2020"
+    ],
+    "respuestas_incorrectas": [
+      "El porcentaje de mujeres en Renfe Mercancías se mantuvo constante entre 2017 y 2020",
+      "En 2020, Renfe Mercancías contaba con menos mujeres que en 2017",
+      "La proporción de hombres se mantuvo estable en torno al 94%",
+      "La plantilla total aumentó de 955 a 1.077 personas",
+      "El porcentaje de mujeres superó el 15% en 2020"
+    ],
+    "fragmento_original": "Renfe Mercanías\n31 de diciembre de 2017\nDiciembre de 2020\n\nPersonas\n%\n\nPersonas\n%\nHombres\n1,011\n93,87\nHombres\n854\n89,42\nMujeres\n66\n6,13\nMujeres\n101\n10,58\nTotal\n1,077\n\nTotal\n955",
+    "etiquetas": [
+      "renfe mercancías",
+      "diagnóstico",
+      "datos plantilla",
+      "igualdad de género"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones sobre Renfe Alquiler de Material Ferroviario entre 2017 y 2020 es correcta?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué ocurrió con la plantilla de Renfe Alquiler de Material Ferroviario entre 2017 y 2020?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuáles de las siguientes afirmaciones son correctas sobre la evolución de la plantilla de Renfe Alquiler de Material Ferroviario?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "El porcentaje de mujeres en Renfe Alquiler de Material Ferroviario aumentó de 20,00% a 42,86% entre 2017 y 2020",
+      "El número de mujeres pasó de 1 en 2017 a 3 en 2020",
+      "El número total de personas trabajadoras aumentó de 5 a 7 entre 2017 y 2020",
+      "El número de hombres se mantuvo constante, pero su proporción bajó"
+    ],
+    "respuestas_incorrectas": [
+      "El número de mujeres disminuyó de 3 a 1",
+      "El porcentaje de mujeres bajó a 14,29%",
+      "La plantilla total se redujo de 7 a 5 personas",
+      "Los hombres representaban más del 90% en ambos años",
+      "No hubo cambios en la proporción de mujeres en la plantilla"
+    ],
+    "fragmento_original": "Renfe Alquiler de Material Ferroviario\n31 de diciembre de 2017\nDiciembre de 2020\n\nPersonas\n%\n\nPersonas\n%\nHombres\n4\n80,00\nHombres\n4\n57,14\nMujeres\n1\n20,00\nMujeres\n3\n42,86\nTotal\n5\n\nTotal\n7",
+    "etiquetas": [
+      "renfe alquiler",
+      "diagnóstico",
+      "datos plantilla",
+      "igualdad de género"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
+    "libro": "II Plan de Igualdad de Género del Grupo Renfe",
+    "capitulo": "Diagnóstico",
+    "formulaciones": [
+      {
+        "texto": "¿Cuál de las siguientes afirmaciones describe correctamente la evolución de la plantilla de Renfe Fabricación y Mantenimiento entre 2017 y 2020?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Qué dato sobre Renfe Fabricación y Mantenimiento entre 2017 y 2020 es correcto?",
+        "modo": "una_correcta",
+        "tipo": "positiva"
+      },
+      {
+        "texto": "¿Cuáles de las siguientes afirmaciones son correctas sobre la evolución de la plantilla de Renfe Fabricación y Mantenimiento entre 2017 y 2020?",
+        "modo": "todas_correctas",
+        "tipo": "positiva"
+      }
+    ],
+    "respuestas_correctas": [
+      "El porcentaje de mujeres en Renfe Fabricación y Mantenimiento aumentó de 9,04% a 9,28% entre 2017 y 2020",
+      "El número total de personas trabajadoras se redujo de 3.229 en 2017 a 2.908 en 2020",
+      "El porcentaje de hombres se redujo levemente de 90,96% a 90,72% entre 2017 y 2020",
+      "El número absoluto de mujeres disminuyó, pero su proporción aumentó ligeramente"
+    ],
+    "respuestas_incorrectas": [
+      "El porcentaje de mujeres bajó de 9,28% a 6,04%",
+      "El número de mujeres aumentó de 270 a 291",
+      "El total de trabajadores aumentó entre 2017 y 2020",
+      "La proporción de hombres se mantuvo sin cambios",
+      "Las mujeres representaban más del 15% de la plantilla en 2020"
+    ],
+    "fragmento_original": "Renfe Fabricación y Mantenimiento\n31 de diciembre de 2017\nDiciembre de 2020\n\nPersonas\n%\n\nPersonas\n%\nHombres\n2,938\n90,96\nHombres\n2,638\n90,72\nMujeres\n291\n9,04\nMujeres\n270\n9,28\nTotal\n3,229\n\nTotal\n2,908",
+    "etiquetas": [
+      "renfe fabricación y mantenimiento",
+      "diagnóstico",
+      "datos plantilla",
+      "igualdad de género"
+    ],
+    "aciertos_consecutivos": 0,
+    "fallos_totales": 0,
+    "veces_vista": 0,
+    "ultima_vez_vista": null,
+    "ultima_vez_acertada": null,
+    "descartada": false,
+    "proxima_revision": null,
+    "notas_personales": ""
+  },
+  {
     "libro": "Normativa Comercial",
     "capitulo": "Capítulo Mock 1",
     "formulaciones": [
